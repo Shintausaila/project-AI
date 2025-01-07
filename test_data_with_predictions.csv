@@ -1,0 +1,1400 @@
+Review_Text,True Sentiment,Predicted Sentiment
+"['location', 'great', 'center', 'delhi', 'lack', 'attention', 'cleanness', 'guess', 'people', 'stop', 'chew', 'spit', 'every', 'waterblasting', 'clean', 'every', 'night', 'could', 'help', 'around', 'hotel']",positif,positif
+"['nice', 'staff', 'helpful']",positif,positif
+"['excellent', 'service']",positif,positif
+"['staff', 'polite', 'helpful', 'good', 'size', 'room', 'bathroom']",positif,positif
+"['everything', 'excellent', 'expect', 'network', 'facilitieswe', 'unable', 'call', 'good', 'internet', 'speednot', 'even', 'wifi', 'fast', 'provide', 'hotel']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['stay', 'place', 'multiple', 'time', 'must', 'say', 'nice', 'place', 'safe', 'sound', 'neighborhood', 'staff', 'amaze', 'specially', 'mr', 'rohit', 'kind', 'helpful', 'gentleman', 'keep', 'good', 'spirit', 'guy', 'would', 'definitely', 'visit']",positif,positif
+"['locate', 'right', 'place', 'cool', 'calm', 'pace']",positif,positif
+"['staff', 'behaviour', 'good']",positif,positif
+"['superb', 'hotel', 'lovely', 'restaurant', 'team', 'friendly', 'accommodate', 'room', 'impeccably', 'clean', 'comfortable', 'provide', 'many', 'amenities', 'pay', 'extra', 'beautiful', 'view', 'yamuna', 'river', 'feel', 'worth', 'hotel', 'locate', 'alleyway', 'majnu', 'ka', 'tila', 'location', 'feel', 'quiet', 'safe', 'time', 'day', 'wellestablished', 'majnu', 'ka', 'tila', 'would', 'definitely', 'stay']",positif,positif
+"['best', 'stay']",positif,positif
+"['good', 'hotel', 'service', 'mind', 'staff', 'helpful', 'almost', 'everything', 'quality', 'room', 'great', 'enough', 'space', 'well', 'clean']",positif,positif
+"['grand', 'godwin', 'hotel', 'handily', 'locate', 'close', 'central', 'delhi', 'new', 'delhi', 'railway', 'station', 'room', 'bed', 'comfortable', 'lovely', 'last', 'get', 'hot', 'shower', 'work', 'staff', 'fantastic', 'particularly', 'look', 'need', 'show', 'empathy', 'wife', 'become', 'ill']",positif,positif
+"['hotel', 'room', 'good', 'staff', 'nice', 'locate', 'main', 'bazar', 'hotel', 'prime', 'location', 'metro', 'walk', 'distance', 'new', 'delhi', 'railway', 'station', '05', 'km', 'nice', 'hotel']",positif,positif
+"['hotel', 'easely', 'reachable', 'staff', 'helpful', 'ask', 'buy', 'train', 'ticket', 'sim', 'card', 'etc', 'clean', 'graet', 'value', 'money']",positif,positif
+"['nice', 'hotel', 'clean', 'room', 'staff', 'good']",positif,positif
+"['hotel', 'locate', 'close', 'train', 'station', 'nice', 'experience', 'hotel', 'get', 'full', 'cooperation', 'staff', 'room', 'spacious', 'nice', 'staff', 'full', 'cooperative', 'n', 'supportive', 'quick', 'response', 'thank', 'hospitality']",positif,positif
+"['family', 'room', 'spacious', 'clean', 'staff', 'nice', 'service', 'orient', 'room', 'service', 'also', 'good']",positif,positif
+['nice'],positif,positif
+"['good', 'location', 'hotel', 'also', 'nice', 'care', 'taker', 'sarfaraz']",positif,positif
+"['great', 'time', 'hindustan', 'hostel', 'staff', 'nice', 'kind', 'dorms', 'clean', 'comfortablethey', 'help', 'sim', 'card', 'travel', 'plan', 'need', 'muchi', 'couldnt', 'accept', 'airport', 'transfer', 'hostel', 'good', 'idea', 'get', 'scam', 'taxi', 'driver', 'take', 'fake', 'tourist', 'office', 'tell', 'everything', 'close', 'due', 'flood', 'covid', 'u', 'can', 'not', 'entry', 'area', 'true', 'highly', 'recommend']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['room', 'clean', 'bed', 'comfortable', 'day', 'flight', 'plan', 'stay', 'hotel', 'day', 'catch', 'things', 'bar', 'area', 'comfortable', 'power', 'sockets', 'charge', 'devices', 'good', 'choice', 'food', 'breakfast', 'dinner', 'buffet', '7', 'pm', 'choose', 'menu', 'price', 'reasonable', 'level', 'hotel', 'able', 'provide', 'airport', 'dropoff', 'service', 'serve', 'purpose']",positif,positif
+"['space', 'room', 'location']",netral,positif
+"['room', 'neat', 'clean', 'nearby', 'market', 'area', 'new', 'delhi', 'station', 'staff', 'also', 'good', 'polite', 'value', 'worth', 'money']",positif,positif
+"['location', 'food', 'superb']",positif,positif
+['staff'],netral,positif
+"['location', 'good', 'many', 'others', 'also']",positif,positif
+"['comfy', 'bed', 'bath', 'excellent', 'breakfast', 'cook', 'fresh', 'great', 'location']",positif,positif
+"['bring', 'andaz', 'reception', 'driver', 'mistake', 'ipsi', 'check', 'us', 'without', 'delay', 'look', 'us', 'well', 'even', 'bring', 'bananas', 'desk', 'two', 'hungry', 'children', 'christopher', 'help', 'us', 'room', 'kind', 'courteous', 'helpful', 'also', 'help', 'us', 'bag', 'end', 'stay', 'shivauni', 'residences', 'reception', 'help', 'cforms', 'late', 'night', 'appreciate', 'breakfast', 'staff', 'wonderfully', 'helpful', 'welcome', 'gurpreet', 'abhendra', 'satyam', 'jyoti', 'another', 'lovely', 'young', 'girl', 'whose', 'name', 'unfortunately', 'write', 'work', 'section', 'near', 'juice', 'counter', 'brilliant', 'help', 'us', 'food', 'choices', 'newly', 'adopt', 'indian', 'son', 'thank']",positif,positif
+['good'],positif,positif
+"['location', 'amaze', 'everything', 'around', 'railway', 'station', 'metro', 'station', 'go', 'walk', 'staff', 'kind', 'helpful', 'specially', 'mr', 'tarun', 'rajput', 'help', 'us', 'lot', 'plenty', 'informations', 'hotel', 'also', 'provide', 'exchange', 'money', 'service', 'book', 'ticket', 'breakfast', 'tasteful', 'sometimes', 'hard', 'understand', 'waiters']",positif,positif
+"['staff', 'ask', 'extra', '1500', 'rs', 'room']",netral,netral
+"['location', 'good', 'close', 'main', 'tourists', 'spot', 'new', 'delhi', 'room', 'clean', 'wifi', 'strong']",positif,positif
+['breakfast'],netral,positif
+"['beautiful', 'location', 'lovely', 'staff']",positif,positif
+['nice'],positif,positif
+"['staff', 'good', 'polite']",positif,positif
+"['location', 'near', 'rk', 'akshram', 'metro', '3', 'minutes', 'walk', 'staff', 'friendly', 'helpful', 'many', 'restaurant', 'near', 'hostel', 'good', 'location', 'stay']",positif,positif
+"['satisfy', 'service', 'like']",positif,positif
+"['nice', 'service', 'staff', 'friendly']",positif,positif
+"['room', 'house', 'kitchen', 'restaurant']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'breakfast', 'good', 'location', 'recommend']",positif,positif
+['name'],netral,netral
+"['excellent', 'service', 'room', 'spacious', 'clean', 'comfortable', 'hotel', 'staff', 'well', 'behave', 'house', 'keep', 'staff', 'nice', 'polite', 'overall', 'nice', 'experience']",positif,positif
+"['place', 'great', 'friendly', 'nice', 'help', 'organize', 'ower', 'total', 'trip', 'husband', 'birthday', 'celebrate', 'nice', 'surprise', 'nice', 'food', 'birtdaycake', 'candle', 'come', 'year', 'positive', 'ower', 'earlier', 'india', 'travel', '2018', 'look', 'forward', 'come', 'trip']",positif,positif
+"['checkin', 'night', 'owner', 'kindly', 'meet', 'confirm', 'data', 'check', 'docs', 'make', 'note', 'bell', 'boy', 'guy', 'friendly', 'smile', 'leave', 'cash', 'checkout', 'help', 'luggage', 'morning', 'coffe', 'milk', 'want', 'room', 'come', 'sit', 'kitchen', 'every', 'question', 'quiery', 'total', 'fix', 'flight', 'delay', 'driver', 'wait', 'pay', 'airport', 'park', 'info', 'name', 'surname', 'expensive', 'owner', 'promise', 'invite', 'do', 'thank', 'otherwise', 'stay', 'alone', 'night', 'delhi']",positif,positif
+"['moment', 'arrive', 'staff', 'go', 'beyond', 'ensure', 'comfort', 'satisfaction']",netral,positif
+"['lovely', 'superb', 'hotel', 'safe', 'family', 'hotel']",positif,positif
+"['room', 'service', 'prompt', 'food', 'delicious']",positif,positif
+"['food', 'awesomeneat', 'clean', 'aerafood', 'delicious', 'restaurant', 'staff', 'good', 'polite', 'behaviour', 'everyone', 'nyc', 'visit', 'wonderfull', 'experience', 'beautifull', 'amaze', 'staff', 'amaze', 'especially']",positif,positif
+"['location', 'good', 'food', 'ok']",positif,positif
+"['one', 'affordable', 'hotelcleaned', 'spacious', 'room', 'bathroomhot', 'cold', 'water', 'available', 'restaurant', 'food', 'also', 'tasty', 'location', 'perfect']",positif,positif
+"['room', 'dont', 'windows']",netral,positif
+"['nothing', 'right']",positif,netral
+"['staff', 'good', 'immediately', 'respond', 'room', 'safe', 'stay', 'alone', 'clean', 'tidy']",positif,positif
+"['breakfast', 'fresh', 'although', 'tea', 'also', 'cold', 'pathetic', 'food', 'person', 'reception', 'rude', 'time', 'check', 'ac', 'work', 'request', 'place', 'table', 'fan', 'insist']",negatif,negatif
+"['actually', 'good', 'hotel', 'stay', 'maintain', 'properly', 'dark', 'feel', 'isolate']",positif,positif
+['nothing'],netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['clean', 'staff', 'friendly', 'high', 'mannered']",positif,positif
+"['location', 'cost']",netral,positif
+['yes'],netral,netral
+"['hotel', 'fabhotel', 'chattarpur', 'enclave', 'spacious', 'clean', 'good', 'price', 'location', 'hotel', 'wonderful', 'visit', 'great', 'experience', 'hotel', 'staff', 'quick', 'responsive', 'great', 'hospitality', 'mr', 'nareneder', 'recomandid', 'visit', 'hottel', 'greatful']",positif,positif
+"['servizi', 'interni', 'ristorante', 'solo', 'delivery', 'del', 'cibo', 'e', 'cena', 'camera', 'spazio', 'per', 'consumarla', 'colazione', 'uguale', 'consumabile', 'giardino', 'meglio', 'struttura', 'vecchia', 'bagno', 'inadeguato', 'strumenti', 'di', 'raffreddamento', 'ventola', 'e', 'ac', 'molto', 'rumorosa', 'si', 'sentono', 'tutti', 'gli', 'aerei', 'che', 'partono', 'e', 'che', 'atterrano', 'molto', 'difficile', 'prendere', 'sonno']",netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['charge', 'extra', 'money']",netral,netral
+"['breakfast', 'menu', 'hot', 'water', 'supply', 'fridge', 'lift']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['well', 'additional', 'light', 'shd', 'add', 'ceiling', 'adequate']",negatif,negatif
+"['good', 'breakfast', 'location', 'good']",positif,positif
+"['clean', 'place', 'great', 'staff']",positif,positif
+"['good', 'stay', 'nd', 'mr', 'parveen', 'polite', 'good']",positif,positif
+"['everything', 'staff', 'amaze', 'every', 'single', 'person', 'encounter', 'friendly', 'kind', 'helpful', 'love', 'locate', 'away', 'hustle', 'bustle']",positif,positif
+['ok'],positif,positif
+"['best', 'hotel', 'cooperative', 'staff', 'food', 'quality', 'awasome', 'superb', 'excellent', 'staythoughjust', 'staffstaff', 'cooperative', 'easy', 'approachmust', 'consider', 'vacation']",positif,positif
+"['stay', 'didnt', 'like', 'property', 'visit', 'didnt', 'stay']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'comfortable', 'stayall', 'service', 'goodnice', 'accommodationvery', 'nice', 'staff', 'wifi', 'goodbreakfast', 'good', 'delicious']",positif,positif
+"['get', 'tea', 'even', 'paper', 'glass', 'forget', 'food']",netral,positif
+"['room', 'clean', 'nd', 'bathroom', 'also', 'clean']",positif,positif
+"['location', 'convenient']",netral,positif
+"['area', 'hoardings', 'fab', 'hotel', 'hence', 'look', 'quite', 'unsatisfactory']",netral,netral
+"['collect', '3000', 'per', 'day']",netral,netral
+"['near', 'train', 'station', 'plenty', 'conveniences', 'room', 'good', 'standard']",positif,positif
+"['staff', 'owner', 'helpful', 'spotlessly', 'clean', 'comfortable', 'affordable', 'location', 'caretakermanager', 'bb', 'stay', 'property', 'available', 'cook', 'home', 'make', 'meals']",positif,positif
+"['book', 'say', 'room', 'available', 'give', 'another', 'hotel', 'higher', 'rate']",positif,positif
+['good'],positif,positif
+"['nice', 'location', 'nice', 'stay']",positif,positif
+"['everything', 'best', 'hotel', 'delhi']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['water', 'clean', 'take', 'shower']",negatif,positif
+"['utilize', 'please', 'refund']",netral,negatif
+"['gracious', 'helpful', 'staff']",positif,positif
+"['hotel', 'provide', 'everything', 'need', 'bed', 'comfortable', 'clean', 'breakfast', 'excellent', 'staff', 'friendly', 'accommodate', 'order', 'food', 'room', 'service']",positif,positif
+"['room', 'service', 'nice']",positif,positif
+"['clean', 'nice', 'comfortable', 'theres', 'kitchen', 'use', 'weve', 'lot', 'hotels', 'delhi', 'best', 'one']",positif,positif
+"['actually', 'book', '3', 'nights', 'next', 'day', 'forcefully', 'check', 'night', '1000pm']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['thoroughly', 'enjoy', 'stay', 'raj', 'mahal', 'inn', 'stay', 'previously', 'would', 'definitely', 'return', 'visit', 'delhi', 'staff', 'welcome', 'helpful', 'hotel', 'within', 'minutes', 'main', 'bazaar', 'set', 'back', 'busy', 'streets', 'use', 'airport', 'pickup', 'service', 'reliable', 'home', 'home']",positif,positif
+"['location', 'handy', 'metro', 'hauz', 'khas', 'area', 'super', 'friendly', 'staff', 'really', 'good', 'food', 'restaurant', 'room', 'bigger', 'cleaner', 'expect', 'good', 'value', 'money', 'definitely', 'stay']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['hotel', 'marina', 'near', 'airport', 'room', 'neat', 'clean', 'staff', 'humble', 'food', 'amaze', 'value', 'money']",positif,positif
+"['staff', 'excellent', 'friendly', 'close', 'railway', 'station']",positif,positif
+"['來德里絕對值得推薦一切非常好', '員工禮貌專業像私人管家般服務', '房間比照片實際完美舒適奢華高級尤其床寢及枕頭非常柔軟好睡所有的備品齊全', '熱水量又大又舒服', '早餐好吃', '我在這裡住了3天一切非常完美感謝']",netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['manager', 'bad']",negatif,negatif
+['infrastructure'],netral,positif
+"['staff', 'polite', 'helpful']",netral,positif
+"['nice', 'hotel', 'nice', 'locations']",positif,positif
+"['good', 'accommodation', 'per', 'room', 'rate']",positif,positif
+"['location', 'fine', 'room', 'also', 'big']",positif,positif
+"['stafffoodhomely', 'environment']",netral,netral
+"['hotel', 'centrally', 'locate', 'stay', 'pleasant', 'room', 'facilities', 'excellent', 'nice', 'bathroom', 'staff', 'especially', 'hospitable', 'friendly', 'would', 'hesitate', 'come', 'back']",positif,positif
+"['room', 'service', 'good']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['nice', 'food', 'great', 'ambiance', 'happy', 'atmosphere', 'nice', 'friendly', 'good', 'quality', 'food', 'great', 'place', 'staff', 'friendly', 'must', 'visit']",positif,positif
+"['second', 'stay', 'maya', 'cottage', 'build', 'really', 'impressive', 'happy', 'service', 'quality', 'room', 'ill', 'definitely', 'recommend', 'hotel', 'friends', 'washroom', 'clean', 'bedsheet', 'neat', 'one', 'suggestion', 'hotel', 'owner', 'kindly', 'add', 'liquid', 'soap', 'possible']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['locate', 'near', 'metro', 'station', 'comfortable', 'stay', 'staff', 'courteous', 'attentive', 'food', 'nice', 'worthy']",positif,positif
+"['location', 'easy', 'access', 'staff', 'polite']",positif,positif
+"['make', 'concessions', 'us']",netral,positif
+"['room', 'fine']",positif,positif
+['good'],positif,positif
+"['love', 'location', 'room', 'clean', 'staff', 'polite', 'good', 'behaviour', 'would', 'love', 'visit']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['clean', 'nice', 'staff', 'helpful', 'especially', 'night', 'staf', 'guy', 'jasbir', 'helpful', 'polite']",positif,positif
+"['stay', 'really', 'superb']",positif,positif
+"['hotel', 'well', 'manage', 'staff', 'professional', 'helpful', 'decent', 'options', 'regard', 'select', 'venue', 'hold', 'event', 'concern']",positif,positif
+"['excellent', 'staff', 'excellent', 'wifi', 'excellent', 'airconditioning', 'excellent', 'location']",positif,positif
+"['comfortable', 'stay', 'hassal', 'free', 'difficulty', 'nice', 'locality', 'travellers', 'new', 'delhi', 'station']",positif,positif
+"['great', 'hotel']",positif,positif
+"['clean', 'sheet', 'airport', 'service', 'es', 'smooth']",positif,positif
+['super'],positif,positif
+"['check', 'swift', 'well', 'manage', 'mr', 'sagar', 'reception', 'efficient', 'room', 'spacious', 'food', 'need', 'improve']",positif,positif
+"['staff', 'make', 'hostel', 'nice', 'experience', 'good', 'vibes', 'nice', 'people', 'stay', 'helpful', 'staff', 'organize', 'tour', 'old', 'delhi', 'new', 'delhi', 'recommend', 'stay']",positif,positif
+"['location', 'good', 'easy', 'find', 'park', 'space', 'nice']",positif,positif
+"['hotel', 'ok', 'bar', 'work', 'mode', 'inform', 'advance']",positif,negatif
+"['awesome', 'hotel', 'staff', 'good', 'clean', 'room', 'location', 'good']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['home', 'away', 'home', 'great', 'location', 'quietish', 'sububarb', 'accessible', 'travel', 'place', 'interest', 'great', 'customer', 'service', 'start', 'end', 'regular', 'communication', 'book', 'make', 'arrival', 'staff', 'warm', 'friendly', 'accessible', 'helpful', 'establishment', 'felt', 'safe', 'clean', 'comfortable', 'relax', 'environment', 'common', 'room', 'great', 'alternative', 'want', 'restrict', 'room']",positif,positif
+"['staff', 'discover', 'resort', 'friendly', 'helpful']",positif,positif
+"['good', 'location', 'cleanliness']",positif,positif
+"['excellent', 'service', 'behaviour', 'hotel', 'staff', 'manager', 'everything', 'really', 'happy', 'get', 'nice', 'stay']",positif,positif
+"['staff', 'helpful', 'friendly', 'well', 'organise', 'keep', 'bungalow', 'neat', 'clean', 'location', 'central', 'part', 'delhi', 'easily', 'accessible', 'commute', 'bungalow', 'various', 'popular', 'locations', 'tourist', 'areas', 'within', '15', '30', 'minutes']",positif,positif
+"['spacious', 'room']",netral,positif
+"['recent', 'stay', 'hotel', 'grand', 'godwin', 'truly', 'exceptional', 'two', 'couple', 'travel', 'usa', 'pleasantly', 'surprise', 'exceptional', 'service', 'value', 'money', 'hotel', 'offer', 'request', 'early', 'morning', 'airport', 'pickup', 'flawlessly', 'execute', 'set', 'tone', 'wonderful', 'stay', 'hotels', 'commitment', 'cleanliness', 'hygiene', 'evident', 'moment', 'step', 'room', 'spacious', 'wellmaintained', 'accommodations', 'provide', 'comfortable', 'day', 'explore', 'quieter', 'experience', 'recommend', 'opt', 'room', 'back', 'property', 'standout', 'feature', 'efficient', 'highspeed', 'wifi', 'ensure', 'seamless', 'connectivity', 'throughout', 'stay', 'onsite', 'café', 'brownie', 'emerge', 'favorite', 'spot', 'rejuvenate', 'cup', 'coffee', 'offer', 'cozy', 'ambiance', 'within', 'hotel', 'premise', 'buffet', 'breakfast', 'spread', 'impressive', 'cater', 'diverse', 'palates', 'offer', 'great', 'start', 'mornings', 'variety', 'quality', 'food', 'leave', 'us', 'thoroughly', 'satisfy', 'hotel', 'grand', 'godwin', 'exceed', 'expectations', 'every', 'way', 'provide', 'fantastic', 'value', 'price', 'deliver', 'promise', 'cleanliness', 'comfort', 'topnotch', 'service', 'highly', 'recommend', 'hotel', 'fellow', 'travelers', 'seek', 'delightful', 'hasslefree', 'stay', 'heart', 'city']",positif,positif
+"['great', 'price', 'stay', 'near', 'airport', 'room', 'good', 'size', 'bed', 'quite', 'comfortable', 'staff', 'friendly', 'accomodating', 'also', 'also', 'allow', 'us', 'late', 'check', 'much', 'appreciate']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['everything', 'ok']",positif,positif
+"['location', 'good', 'minutes', 'connaught', 'place', 'centre', 'wifi', 'good', 'people', 'friendly']",positif,positif
+['good'],positif,positif
+"['plunge', 'pool']",netral,positif
+"['location', 'good']",positif,positif
+"['simple', 'accommodation', 'say', 'tin', 'bed', 'toilet', 'shower', 'reasonable', 'price']",positif,positif
+"['exceptionally', 'well', 'maintain', 'property', 'big', 'room', 'high', 'ceiling', 'common', 'areas', 'great', 'spotless', 'bathroom', 'couldnt', 'ask', 'definitely', 'stay', 'next', 'time', 'visit', 'new', 'delhi', 'staff', 'also', 'nice', 'accommodate']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['staff', 'nice', 'boys', 'english', 'bad', 'best', 'children']",positif,positif
+"['food', 'friendly', 'staff', 'cosy', 'hotel', 'room', 'felt', 'like', 'room']",positif,positif
+"['man', 'reception', 'polite', 'helpful', 'let', 'leave', 'bag', 'hotel', 'room', 'wasnt', 'wow', 'ok', 'one', 'night']",positif,positif
+"['nice', 'place', 'stay', 'budget', 'good', 'variety', 'dish', 'breakfast', 'support', 'staff', 'helpful', 'neat', 'clean', 'room', 'adequate', 'facilities']",positif,positif
+"['room', 'clean', 'hygienicfood', 'tasty', 'budget', 'nice', 'stay']",positif,positif
+"['hotel', 'luxurious', 'well', 'maintain', 'really', 'enjoy', 'stay', 'everything', 'service', 'room', 'restaurant', 'food', 'polite', 'attentive', 'staff', 'outstanding']",positif,positif
+"['pathetic', 'way', 'deal', 'customers']",negatif,negatif
+"['hotel', 'room', 'good', 'staff', 'nice', 'locate', 'main', 'bazar', 'hotel', 'prime', 'location', 'metro', 'walk', 'distance', 'new', 'delhi', 'railway', 'station', '05', 'km', 'nice', 'hotel']",positif,positif
+"['property', 'newly', 'construct', 'spacious', 'clean', 'room']",positif,positif
+"['staff', 'quite', 'helpful', 'fortunately', 'ac', 'work', 'wonder', 'location', 'pretty', 'central', 'assume', 'nice', 'touristy', 'area', 'room', 'offer', 'need', 'bed', 'pretty', 'clean']",positif,positif
+"['breakfastroomcleanliness', 'nice', 'place', 'relax', 'face', 'heat', 'give', 'india', 'country', 'walk', 'around', 'easily', 'day', 'tour', 'hotel', 'recommend', 'spend', 'rest', 'day']",positif,positif
+"['prime', 'location', 'delhi', 'also', 'clean', 'comfortable', 'stay', 'plan', 'live', '2', 'days', 'end', 'stay', 'week']",positif,positif
+"['stay', 'one', 'night', 'hotel', 'serve', 'decent', 'food', 'restaurant', 'breakfast', 'bite', 'pricey', 'get', 'room', 'big', 'comfortable', 'really', 'enjoy', 'stay']",positif,positif
+"['good', 'staff', 'good']",positif,positif
+"['hard', 'get', 'positives', 'unfortunately', 'stay']",negatif,positif
+"['relax', 'homely', 'nice', 'balcony', 'comfortable', 'clean', 'everyday', 'anurag', 'helpful', 'responsible', 'make', 'sure', 'happy', 'anything', 'need', 'take', 'care', 'didnt', 'use', 'kitchen', 'imagine', 'nice', 'want', 'stuff', 'keep', 'fridge']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['never'],netral,positif
+"['overall', 'great', 'hotel']",positif,positif
+"['staff', 'hospitality', 'washroom']",netral,positif
+"['hotel', 'staff', 'really', 'good', 'main', 'market']",positif,positif
+"['cost', 'low', 'airport', 'taxi']",netral,positif
+"['great', 'stayy']",positif,positif
+['nothing'],netral,netral
+"['good', 'hotel', 'stay', 'love', 'much']",positif,positif
+"['book', 'place', 'day', 'order', 'keep', 'luggage', 'available', 'night', 'train', 'flight', 'night', 'take', 'shower', 'far', 'metro', 'yellow', 'line', 'go', 'airport', 'need', 'walk', '1015', 'min', 'though', 'new', 'delhi', 'station', 'arrive', 'early', 'morning', 'room', 'yet', 'available', 'send', 'another', 'hotel', 'nearby', 'slightly', 'higher', 'fee', 'correct', 'basic', 'hotel', 'middle', 'narrow', 'streets', 'much', 'comfort']",positif,positif
+"['room', 'large', 'equip', 'two', 'large', 'bed', 'breakfast', 'choice', 'simple', 'good', 'staff', 'pay', 'attention', 'costumers', 'restaurants', 'shop', 'coffee', 'shop', 'walk', 'distance']",positif,positif
+"['right', 'onset', 'wife', 'fell', 'love', 'place', 'afzal', 'hope', 'get', 'name', 'right', 'gem', 'welcome', 'us', 'heart', 'warm', 'smile', 'finish', 'formalities', 'checkin', 'show', 'room', 'blow', 'away', 'quite', 'bbs', 'different', 'place', 'tastefully', 'do', 'lovely', 'lounge', 'area', 'grind', 'floor', 'first', 'floor', 'balcony', 'full', 'lovely', 'plant', 'forget', 'superb', 'collection', 'book', 'freshen', 'get', 'drench', 'rain', 'serve', 'freshly', 'make', 'rice', 'dal', 'along', 'superb', 'yogurt', 'decide', 'take', 'power', 'nap', 'hour', 'next', 'thing', 'know', 'doze', 'good', '25', 'hours', 'thank', 'comfort', 'room', 'noise', 'free', 'surroundings', 'next', 'day', 'morning', 'breakfast', 'delight', 'hot', 'parathas', 'wife', 'omelette', 'along', 'toast', 'fresh', 'fruit', 'cereals', 'side', 'extend', 'stay', 'hours', 'able', 'get', 'taxi', 'go', 'airport', 'afzal', 'arrange', 'jiffy', 'thank', 'team', 'neem', 'little', 'hide', 'gem']",positif,positif
+"['highly', 'appreciate', '24hour', 'check', 'check', 'scheme', 'check', '700', 'pm', 'able', 'check', '700', 'pm', 'without', 'additional', 'cost', 'first', 'hostel', 'ive', 'encounter', 'good', 'location', 'near', 'kashmere', 'gate', 'station', 'accessible', '3', 'metro', 'line', 'good', 'value', 'better', 'location', 'hotels', 'paharganj', 'lot', 'food', 'options', 'around', 'area']",positif,positif
+"['1', 'clean', 'room', '2', 'basic', 'amenities', 'place', '3', 'courteous', 'helpful', 'staff', '4', 'affordable', 'price', 'range', '5', 'accessible', 'safe', 'location', '6', 'good', 'food']",positif,positif
+"['overall', 'everything', 'ok']",positif,positif
+"['charge', 'breakfast', 'didnt', 'provide', 'bad', 'rudely', 'deny']",negatif,negatif
+"['locationrestaurants', 'breakfast', 'fall', 'quality', 'prior', 'years']",netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['little', 'early', 'early', 'morning', 'flight', 'wait', 'till', '12pm', 'get', 'room', 'room', 'ready', 'arrival', 'give', 'us', 'soon', 'clean', 'ready', 'us', 'breakfast', 'spread', 'right', 'large', 'small', 'food', 'quality', 'also', 'good', 'tasty']",positif,positif
+"['change', 'bed', 'sheet', 'find', 'dirty']",negatif,negatif
+"['room', 'big', 'enough', 'family', 'four', 'book', 'deluxe', 'double', 'room', 'child', '5', 'yo', 'sleep', 'sofa', 'put', 'next', 'bed', 'baby', 'sleep', 'together', 'us']",positif,negatif
+['good'],positif,positif
+"['stay', 'friends', 'provide', 'nice', 'service', 'best', 'rooftop', 'restaurant', 'everything', 'great']",positif,positif
+"['worst', 'hotel', 'ever', 'stay', 'life']",negatif,negatif
+"['location', 'rate', 'breakfast']",netral,positif
+"['reception', 'staff', 'friendly', 'helpful', 'room', 'service', 'wonderful', 'housekeep', 'really', 'enjoy', 'stay', 'breakfast', 'fantastic', 'much', 'eat', 'room', 'wonderful', 'well', 'clean']",positif,positif
+"['nothingworst', 'experience', 'ever']",netral,negatif
+"['sarfraz', 'sunil', 'good', 'condition', 'hotel', 'good', 'room', 'clean']",positif,positif
+"['staff', 'friendly', 'nicely', 'behave']",positif,positif
+"['nice', 'hotel', 'nice', 'location', 'south', 'delhi']",positif,positif
+"['friendly', 'staff', 'clean', 'hotel', 'good', 'breakfast']",positif,positif
+"['go', 'say', 'book']",netral,positif
+"['absolutely', 'amaze', 'customer', 'service', 'would', 'recommend', 'hotel', 'look', 'forward', 'visit', 'future', 'room', 'clean', 'spacious']",positif,positif
+['location'],netral,positif
+"['hygienic', 'environment', 'hotel', 'polite', 'behaviour', 'staff', 'member']",netral,positif
+"['break', 'fast', 'poor', 'taste', 'less', 'varieties', 'veg', 'category', 'idli', 'available', 'location', 'good']",positif,positif
+"['room', 'spacious', 'fit', 'short', 'term', 'stay', 'entertainment', 'option', 'need', 'improvement', 'accord', 'room', 'type', 'complementary', 'indian', 'desi', 'type', 'tea', 'coffee', 'introduce', 'case', 'king', 'room', 'great']",positif,positif
+"['nice', 'service', 'staff', 'behaviop', 'good', 'housekeep', 'servicw', 'exelant']",positif,positif
+"['breakfast', 'except', 'fact', 'closer', 'station']",netral,positif
+"['hotel', 'recommend', 'friend', 'travel', 'lot', 'new', 'delhi', 'arrive', 'severe', 'cold', 'say', 'able', 'rest', 'comfortably', 'complain', 'staff', 'always', 'helpful', 'request']",positif,positif
+"['location', 'facilities', 'good']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'simply', 'amaze', 'close', 'market', 'bedrooms', 'pretty', 'wellkept', 'staff', 'welcome', 'helpful', 'us', 'provide', 'pleasant', 'stay']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['recently', 'stay', 'fab', 'hotel', 'jasmine', 'family', 'father', 'undergo', 'treatment', 'nearby', 'apollo', 'hospital', 'must', 'say', 'experience', 'hotel', 'nothing', 'short', 'exceptional', 'moment', 'arrive', 'staff', 'fab', 'hotel', 'jasmine', 'display', 'level', 'consideration', 'genuine', 'care', 'truly', 'heartwarming', 'go', 'beyond', 'ensure', 'felt', 'comfortable', 'safe', 'well', 'take', 'care', 'stay', 'give', 'stressful', 'circumstances', 'surround', 'visit', 'attentiveness', 'make', 'significant', 'difference', 'put', 'us', 'ease', 'one', 'aspect', 'particularly', 'impress', 'us', 'cleanliness', 'hotel', 'housekeep', 'staff', 'provide', 'prompt', 'efficient', 'service', 'day', 'evident', 'hotel', 'maintain', 'high', 'standards', 'hygiene', 'buffet', 'breakfast', 'offer', 'fab', 'hotel', 'jasmine', 'simply', 'excellent', 'furthermore', 'hotels', 'kitchen', 'service', 'available', 'round', 'clock', 'incredibly', 'convenient', 'us', 'often', 'unpredictable', 'schedule', 'due', 'hospital', 'visit', 'must', 'also', 'mention', 'exceptional', 'service', 'provide', 'manager', 'uday', 'team', 'udays', 'kindness', 'attentiveness', 'truly', 'commendable', 'staff', 'follow', 'suit', 'consistently', 'go', 'extra', 'mile', 'ensure', 'need', 'meet', 'comfortable', 'throughout', 'stay', 'initially', 'book', 'hotel', 'two', 'days', 'assume', 'would', 'eventually', 'move', 'affordable', 'option', 'however', 'stay', 'progress', 'realize', 'level', 'kindness', 'display', 'hotel', 'staff', 'quality', 'service', 'provide', 'worth', 'every', 'penny', 'decide', 'extend', 'stay', 'fab', 'hotel', 'jasmine', 'without', 'hesitation', 'experience', 'hotel', 'truly', 'memorable', 'grateful', 'care', 'receive', 'stay']",positif,positif
+"['book', '2', 'room', 'apartment', 'amaze', 'comfortable', 'luxurious', 'breakfast', 'delicious', 'pool', 'spa', 'wonderful', 'everyone', 'meet', 'staff', 'friendly', 'helpful', 'wonderful', 'stay', 'definitely', 'recommend', 'taj', 'mahal', 'hotel']",positif,positif
+"['stay', 'comfortable']",positif,positif
+"['visit', 'hotel', 'business', 'purpose', 'nice', 'service', 'good', 'great', 'time', 'didnt', 'get', 'problem']",positif,positif
+"['everything', 'good']",positif,positif
+"['location', 'okay', 'staff', 'nice']",positif,positif
+"['breakfast', 'good', 'location', 'good', 'hotel', 'list', 'ananad', 'international', 'area', 'hotel', 'poster', 'shos', 'anand', 'lok', 'hotel']",positif,positif
+"['overall', 'service', 'really', 'nice', 'hotel', 'excellent', 'hotel', 'staff', 'cooperative', 'helpfull', 'room', 'nice', 'breakfast', 'nice', 'speacial', 'clean', 'excellent', 'thank', 'shara', 'star']",positif,positif
+"['didnt', 'like', 'anything', 'worst', 'experience']",negatif,negatif
+"['whole', 'experience', 'great', 'staff', 'warm', 'professional', 'make', 'stay', 'great']",positif,positif
+"['excellent', 'service']",positif,positif
+"['overall', 'performance', 'awesome', 'best', 'wish', 'staff', 'wonderful', 'service', 'congratulations', 'good', 'service', 'would', 'like', 'visit', 'hotel']",positif,positif
+['location'],netral,positif
+"['nothing', 'kuch', 'bhi', 'aisa', 'nahi']",netral,netral
+"['suite', 'family', 'room', 'large', 'comfortable', 'breakfast', 'fresh', 'quite', 'good', 'food', 'general']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['good'],positif,positif
+"['staff', 'terrace']",netral,positif
+"['location', 'accessible', 'pocket', 'friendly', 'exceed', 'expectations', 'lovely', 'place', 'visit']",positif,positif
+"['clean', 'room']",positif,positif
+"['nothing', 'like', 'hotel']",netral,netral
+"['prompt', 'attention', 'staff', 'helpful']",positif,positif
+"['el', 'hotel', 'estaba', 'cerrado', 'cuando', 'llegamos', 'llamé', 'por', 'teléfono', 'dijeron', 'que', 'estaba', 'abierto', 'hasta', 'el', '13', 'de', 'septiembre', 'tendrían', 'que', 'quitar', 'el', 'hotel', 'hasta', 'esa', 'fecha', 'parece', 'que', 'es', 'una', 'estafa']",netral,netral
+"['collect', '3000', 'per', 'day']",netral,netral
+"['value', 'formoney']",netral,netral
+"['1', 'people', 'timely', 'support', 'willingness', 'make', 'stay', 'great', 'respond', 'immediately', 'call', 'query', 'minor', 'discomforts', 'right', 'time', 'book', 'get', 'cab', 'room', 'service', 'drop', 'airport', 'great', 'particularly', 'gulshan', 'bipin', 'great', 'help', 'toe', '2', 'close', 'international', 'airport', 'sure', 'u', 'never', 'stick', 'traffic', '3', 'food', 'order', 'fine', 'breakfast', 'good', 'enough', 'short', 'stay', 'long', 'travel', 'ahead', '4', 'meet', 'short', 'travel', 'objective', 'could', 'rest', 'well', 'long', 'travel', 'ahead']",positif,positif
+['nothing'],netral,netral
+"['hospitable', 'staff']",netral,positif
+['location'],netral,positif
+['everything'],netral,positif
+"['excellent', 'location', 'great', 'clean', 'room', 'toilets', 'good', 'food', 'best', 'staff', 'unbelievable', 'price']",positif,positif
+"['value', 'money']",netral,positif
+"['everything', 'great', 'hotel', 'amaze', 'staff', 'friendly', 'make', 'customers', 'feel', 'welcome']",positif,positif
+"['convenient', 'location']",netral,positif
+"['food', 'quality', 'good']",positif,positif
+"['highly', 'recommend', 'hotel', 'shanti', 'villa', 'like', 'everything']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comfortable', 'stay', 'big', 'room', 'attach', 'kitchen', 'bathroom', 'specially', 'family', 'hotel', 'long', 'stay', '24', 'hrs', 'room', 'servive', 'safe', 'secure', 'area', 'well', 'maintaint', 'groom', 'staff', 'behabiaur']",positif,positif
+"['stay', 'several', 'years', 'back', 'ginger', 'hotels', 'bangalore', 'pune', 'expect', 'similar', 'level', 'quality', 'room', 'service', 'seem', 'case', 'would', 'assume', 'covid', 'change', 'things', 'sure', 'temporary', 'situation', 'things', 'would', 'definitely', 'improve', 'team', 'serve', 'breakfast', 'accommodate', 'helpful', 'also', 'person', 'service', 'room']",positif,positif
+"['bedroom', 'large', 'nicely', 'decorate', 'comfortable', 'bathroom', 'contain', 'large', 'stark', 'bathtub', 'rare', 'anywhere', 'india', 'bliss']",positif,positif
+"['bad', 'hotel']",negatif,negatif
+"['room', 'clean', 'comfortable', 'fantastic', 'old', 'time', 'charm', 'get', 'check', 'hotel', 'early', 'big', 'plus', 'service', 'exceptional', 'excellent', 'family', 'hotel', 'area', 'staff', 'amaze', 'every', 'staff', 'member', 'encounter', 'check', 'inreception', 'cleaningmaintenance', 'restaurant', 'staff', 'delightful', 'eager', 'help', 'go', 'beyond', 'make', 'stay', 'enjoyable', 'thank']",positif,positif
+"['location', 'probably', 'best', 'part', 'hotel', 'relatively', 'close', 'delhi', 'train', 'station', 'lot', 'attractions', 'delhi', 'india', 'gate', 'red', 'fort', 'etc', 'staff', 'pretty', 'nice']",positif,positif
+"['ac', 'work', 'free', 'bottle', 'water', 'guests']",positif,positif
+"['location', 'walk', 'distance', 'metro', 'station', 'smooth', 'check', 'check']",positif,positif
+"['beautiful', 'room', 'staff', 'attentive', 'questionsneeds', 'hotel', 'best', '6', 'weeks', 'travel', 'asia', 'pleasant', 'surprise']",positif,positif
+"['best', 'budget', 'friendly', 'hotel', 'karol', 'bagh', 'courteous', 'efficient', 'staff', 'make', 'stay', 'hotel', 'outstanding', 'food', 'delicious', 'peaceful', 'room', 'ensure', 'good', 'nights', 'rest']",positif,positif
+"['hotel', 'good']",positif,positif
+"['overall', 'comfortable', 'nice', 'stay']",positif,positif
+"['रम', 'अचछ', 'ह', 'सटफ', 'भ', 'गड']",netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['room', 'clean', 'spacious']",positif,positif
+"['attitude', 'staff', 'location', 'great']",positif,positif
+"['food', 'cleanliness', 'staff', 'hospitality', 'ambience']",netral,positif
+"['nice', 'quiet', 'neighbourhood', 'simultaneously', 'close', 'two', 'decently', 'connect', 'metro', 'station', 'staff', 'knowledgeable', 'oblige', 'bring', 'breakfast', 'room', 'nice', 'touch']",positif,positif
+['name'],netral,netral
+"['comment', 'available', 'review']",positif,positif
+['clean'],positif,positif
+"['close', 'airport']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['like', 'nothing', 'room', 'dirty', 'washrooms', 'dirty', 'staff', 'receptionists', 'much', 'rude']",negatif,negatif
+"['home', 'away', 'home', 'great', 'location', 'quietish', 'sububarb', 'accessible', 'travel', 'place', 'interest', 'great', 'customer', 'service', 'start', 'end', 'regular', 'communication', 'book', 'make', 'arrival', 'staff', 'warm', 'friendly', 'accessible', 'helpful', 'establishment', 'felt', 'safe', 'clean', 'comfortable', 'relax', 'environment', 'common', 'room', 'great', 'alternative', 'want', 'restrict', 'room']",positif,positif
+"['nothing', 'hotel', 'much', 'congest', 'place', 'issue', 'park']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['breakfast', 'order', 'cutlery', 'good', 'quality', 'location', 'congest', 'market', 'traffic', 'jam', 'often']",negatif,positif
+"['prompt', 'service']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['like', 'staff', 'cooperative']",positif,positif
+"['wasnt', 'worth', 'room', 'closer', 'image', 'bookingcom', 'feel', 'cheat']",positif,negatif
+"['fill', 'home', 'hotel', 'stay']",netral,positif
+"['friendly', 'staff', 'clean', 'room', 'sheet', 'list', 'facilities']",positif,positif
+"['nice', 'room', 'good', 'bed']",positif,positif
+"['comfortable', 'stay', 'perfect', 'family', '4', 'include', '2', 'small', 'kid', 'room', 'premise', 'clean', 'staff', 'accommodative', 'request']",positif,positif
+"['courteous', 'staff', 'quick', 'response', 'delicious', 'home', 'like', 'food', 'reasonable', 'price', 'accommodation', 'provide', 'like', 'office', 'suite', 'two', 'large', 'bedrooms', 'bathrooms', 'pleasant', 'surprise']",positif,positif
+"['couple', 'friendly', 'stay']",positif,positif
+"['room', 'clean', 'bed', 'comfy', 'hot', 'shower']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['issue', 'pay', 'nonindian', 'credit', 'etc', 'card']",netral,netral
+"['nothing', 'terrible', 'room', 'dirty']",negatif,negatif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'location', 'quiet', 'good', 'view', 'room', 'staff', 'incredibly', 'courteous']",positif,positif
+"['one', 'best', 'hotels', 'good', 'food', 'polite', 'staff', 'pleasant', 'stay', 'good', 'room', 'spacious', 'food', 'also', 'good', 'specifically', 'thank']",positif,positif
+"['hotel', 'nice', 'staff', 'polite', 'great', 'amenities', 'near', 'igi', 'airport']",positif,positif
+"['location', 'handy', 'metro', 'hauz', 'khas', 'area', 'super', 'friendly', 'staff', 'really', 'good', 'food', 'restaurant', 'room', 'bigger', 'cleaner', 'expect', 'good', 'value', 'money', 'definitely', 'stay']",positif,positif
+"['comfy', 'bed', 'bath', 'excellent', 'breakfast', 'cook', 'fresh', 'great', 'location']",positif,positif
+"['one', 'affordable', 'hotelcleaned', 'spacious', 'room', 'bathroomhot', 'cold', 'water', 'available', 'restaurant', 'food', 'also', 'tasty', 'location', 'perfect']",positif,positif
+"['hotel', 'excellent', 'food', 'exquisite', 'surprisingly', 'assistance', 'service', 'provide', 'staff', 'outstanding', 'specially', 'keep', 'guy']",positif,positif
+"['location', 'good', 'easy', 'reach']",positif,positif
+"['staff', 'always', 'look', 'take', 'money', 'go', 'sim', 'card', 'get', 'charge', 'double', 'money', 'exchangethey', 'get', 'better', 'tip', 'invoice', 'kind', 'things']",positif,positif
+"['room', 'clean', 'professional', 'staff', 'nuisance', 'taxi', 'facility', 'airport']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['value', 'money', 'staff', 'helpful', 'close', 'railway', 'station']",positif,positif
+"['spacious', 'room', 'work', 'tv', 'courteous', 'staff']",positif,positif
+"['room', 'good', 'spacious', 'nice', 'live', 'room', 'bathroom', 'also', 'nice', 'air', 'condition', 'work', 'perfectly', 'extremely', 'courteous', 'prompt', 'staff', 'everything', 'good', 'comfortable']",positif,positif
+"['room', 'actually', 'different', 'image', 'upload', 'check', 'power', 'failure', 'fuel', 'generator', '1', 'hour', 'early', 'check', 'time', 'manager', 'demand', 'additional', 'rs800', 'check', 'though', 'whole', 'hotel', 'vacant', 'take', 'look', 'one', 'room', 'check', 'room', '4th', 'grade', 'hotel', 'kitchen', 'bad', 'dont', 'word', 'say', 'didnt', 'check', 'move']",negatif,negatif
+"['service', 'excellent', 'staff', 'cooperative', 'breakfast', 'food', 'delicious']",positif,positif
+"['staff', 'extremely', 'friendly', 'helpful', 'give', 'everything', 'need', 'really', 'feel', 'hospitality']",positif,positif
+"['break', 'fast', 'include', 'book', 'charge', '250', 'extra']",positif,negatif
+"['nothing', 'much']",positif,positif
+"['worst', 'oyo', 'ever', 'see']",negatif,negatif
+"['hotel', 'marina', 'near', 'airport', 'room', 'neat', 'clean', 'staff', 'humble', 'food', 'nice', 'value', 'money']",positif,positif
+"['good', 'locationgood', 'facilitygood', 'staff', 'behaviourgood', 'wifi']",positif,positif
+"['staff', 'helpful', 'good', 'service']",positif,positif
+"['stay', 'twice', 'occassions', 'alone', 'however', 'involve', 'event', 'entire', 'party', 'stay', 'pool', 'room', 'amaze', 'can', 'not', 'recommend', 'enough', 'love', 'able', 'dip', 'pool', 'privacy', 'room', 'bathrooms', 'great', 'well', 'cleanliness', 'amaze', 'actually', 'honesty', 'clean', 'staff', 'second', 'none', 'leave', 'ring', 'mistake', 'never', 'touch', 'prefer', 'smaller', 'room', 'cosy', 'perfect', 'solo', 'traveller', 'small', 'touch', 'hotel', 'nice']",positif,positif
+['good'],positif,positif
+"['good', 'hotel', 'nice', 'staff', 'friendly', 'neat', 'clean', 'flexible', 'cheap', 'price']",positif,positif
+"['location', 'hotel', 'great', 'next', 'time', 'stay', 'nice', 'room', 'comfortable', 'bed', 'good', 'attitude', 'staff', 'helpful', 'explain', 'everything', 'ask']",positif,positif
+"['overall', 'great', 'experience', 'hotel', 'also', 'staff', 'incredibly', 'helpful', 'amenities', 'great', 'room', 'wonderful', 'clean', 'perfect', 'celebrate', 'birthday', 'weekend']",positif,positif
+"['staff', 'responsive', 'room', 'relatively', 'clean']",positif,positif
+['nice'],positif,positif
+"['location', 'really', 'perfect', 'really', 'enjoy', 'hotel', 'clean', 'comfortable', 'room', 'awesome', 'breakfast', 'great', 'staff', 'would', 'totally', 'recommend', 'hotel', 'really', 'like', 'place']",positif,positif
+"['staff', 'good', 'prompt']",positif,positif
+"['nice', 'hotel', 'staff', 'attentive', 'smallest', 'desire', 'recommend', 'establishment', 'joy', 'good', 'welcome', 'excellent', 'plentiful', 'breakfast', 'great', 'location', 'happiness', 'relax', 'stay']",positif,positif
+"['dinner', 'breakfast', 'spread', 'aweaome', 'good', 'choice', 'work', 'trip']",positif,positif
+"['location', 'room']",netral,positif
+"['staff', 'super', 'supportive', 'location', 'ok', 'quite', 'close', 'airport']",positif,positif
+"['staff', 'incredibly', 'kind', 'helpful', 'food', 'amaze', 'room', 'perfectly', 'design', 'bed', 'comfortable', 'swim', 'pool', 'one', 'beautiful', 'pool', 'see', 'one', 'night', 'delhi', 'always', 'stay', 'travel', 'delhi', 'stressful', 'hotel', 'oasis']",positif,positif
+"['good', 'really', 'enjoy', 'stay', 'thanku', 'mahesh', 'definitely', 'come']",positif,positif
+"['value', 'money']",netral,positif
+"['great', 'room', 'prize', 'book', 'family', 'room', '4', 'spacious', 'one', 'double', 'two', 'single', 'bed']",positif,positif
+['good'],positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['room', 'clean', 'neat', 'matress', 'good', 'comfortable', 'staff', 'sympathic', 'helpful', 'hotel', 'big', 'really', 'beautiful', 'need', 'maintenance', 'swim', 'pool', 'nice', 'also', 'good', 'relax']",positif,positif
+"['bad', 'service']",negatif,negatif
+"['thikana', 'like', 'home', 'away', 'home', 'cozy', 'one', 'best', 'place', 'stay', 'staff', 'friendly', 'owner', 'delight', 'please', 'make', 'sure', 'meet', 'stay']",positif,positif
+"['reception', 'staff', 'nice', 'bathroom', 'clean', 'dry', 'nice']",positif,positif
+"['hotel', 'main', 'road', 'side', 'locate', 'room', 'good', 'staff', 'nice', 'wonderful', 'service', 'free', 'wifi', 'ro', 'water', 'short', 'stay', 'thats', 'nice']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'ok', 'area', 'quiet', 'total', 'much', 'would', 'say', 'staff', 'good', 'good', 'bad']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['nice', 'service']",positif,positif
+"['good', 'location', 'helpful', 'nice', 'staff', 'clean', 'room']",positif,positif
+"['could', 'hear', 'everyone', 'reception', 'doors', 'middle', 'night', 'sound', 'proof']",negatif,negatif
+"['experience', 'bad', 'bookingcom', 'please', 'put', 'list', 'take', 'serious', 'action', 'hotel', 'staff', 'unprofessional', 'didnt', 'like', 'anything', 'stay', 'also', 'dont', 'give', 'hotel', 'price', 'book', 'site', 'charge', 'extra', 'money']",negatif,negatif
+"['good', 'location', 'near', 'airport', 'clean']",positif,positif
+"['location', 'main', 'road', 'minute', 'walk', 'main', 'road', 'hence', 'rent', 'almost', 'half', 'however', 'staff', 'take', 'care', 'transfer', 'luggage', 'location', 'middle', 'hotels', 'restaurants', 'thing', 'hotel', 'doesnot', '24x7', 'hot', 'water', 'turn', 'boiler', 'twice', 'however', 'request', 'turn', 'well', 'hotel', 'safe', 'family']",positif,positif
+"['location', 'wise', 'ok', 'short', 'trip', 'need', 'full', 'revamp', 'property', 'except', 'staff', 'property', 'need', 'match', 'todays', 'standards']",positif,positif
+"['hotelier', 'profession', 'know', 'hotel', 'operations', 'detail', 'glad', 'choose', 'property', 'facilities', 'great', 'service', 'great']",positif,positif
+"['stay', 'family', '13', 'days', 'staff', 'humble', 'listen', 'service', 'raise', 'family', 'members', 'food', 'delicious', 'prepare', 'per', 'requirement', 'allergic', 'food', 'ingredients', 'room', 'clean', 'hygiene', 'awesome']",positif,positif
+"['comfortable', 'helpful', 'kitchen', 'staff', 'esp', 'chotu', 'breakfast', 'high', 'quality']",positif,positif
+"['good', 'hotel', 'nice', 'staff']",positif,positif
+"['purchase', 'food', 'items']",netral,positif
+"['put', 'another', 'property', 'hotel', 'air', 'inn', 'immediately', 'arrival', 'demand', 'payment', 'rs2800', 'pay', 'show', 'room', 'window', 'ac', 'rattle', 'make', 'lot', 'noise', 'complain', 'show', 'another', 'room', 'room', 'no005', 'bigger', 'cleaner', 'toilet', 'seat', 'break', 'toilet', 'paper', 'available', 'say', 'toilet', 'seat', 'would', 'repair', 'days', 'fittings', 'toilet', 'clean', 'appear', 'old', 'rust', 'name', 'property', 'direct', 'stay', 'badal', 'inn', 'situate', 'b', '4', '144', 'safdarjung', 'enclave', 'new', 'delhi', '110029']",negatif,negatif
+"['comment', 'available', 'review']",positif,positif
+"['love', 'zen', 'vibe', 'peaceful', 'oasis']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['everything', 'best', 'perfect', 'quality', 'also', 'good', 'food', 'hotel', 'totally', 'like', 'much']",positif,positif
+"['staff', 'members', 'nice', 'helpful', 'cooperative']",positif,positif
+"['good', 'bed', 'breakfast', 'area', 'pool']",positif,positif
+"['great', 'experience', 'slightly', 'less', 'options', 'ones', 'available', 'good', 'kind', 'helpful', 'staff', 'value', 'money']",positif,positif
+"['everything', 'nice', 'service', 'better', 'room', 'property', 'awesome']",positif,positif
+"['support', 'staff', 'supportivehelping', 'possible', 'side']",netral,positif
+"['cancel', 'book', 'side']",netral,netral
+"['location', 'food', 'room', 'also', 'clear', 'fresh']",positif,positif
+"['mention', 'previous', 'review', 'reason', 'keep', 'return', 'property', 'best', 'value', 'money', 'compare', 'hotel', 'aero', 'citya', 'cluster', 'hotels', 'include', 'international', 'chain', 'hotels', 'locate', '1015', 'mins', 'new', 'delhi', 'domestic', 'international', 'terminal', 'novotel', 'opinion', 'offer', 'everything', 'hotels', 'best', 'best', 'price', 'stay', 'hotels', 'aero', 'city', 'well', 'also', 'staff', 'politesmiling', 'helpful', 'foods', 'different', 'ethnicity', 'available', 'especially', 'variety', 'taste', 'indian', 'food', 'great', 'room', 'quite', 'comfortable', 'bed', 'sleep', 'transfer', 'airport', 'also', 'offer', 'payment', 'mostly', 'unless', 'may', 'part', 'book', 'package', 'plan', 'return', 'delhi', '2', 'days', 'stay']",positif,positif
+"['prime', 'location', 'public', 'relate', 'facilities', 'like', 'restaurants', 'market', 'metro', 'station', 'nearby']",netral,positif
+"['tv', 'work', 'solution', 'mosquito', 'problem']",netral,netral
+"['nice', 'ambience', 'positive', 'vibes', 'staff', 'behaviour', 'good', 'specially', 'rohit', 'well', 'behave', 'hard', 'work', 'guy', 'come', 'stay', 'one', 'day', 'stay', 'longer']",positif,positif
+"['staff', 'cooperative', 'rachna', 'good', 'go', 'grt']",positif,positif
+"['location', 'near', 'connaught', 'place']",positif,positif
+"['get', 'tea', 'even', 'paper', 'glass', 'forget', 'food']",netral,positif
+"['good', 'good', 'location', 'good', 'staff']",positif,positif
+"['roomy', 'spacious', 'could', 'breathe', 'room', 'finicky', 'room', 'space', 'hotel', 'offer', 'good', 'space']",positif,positif
+"['best', 'hotel', 'couple']",positif,positif
+"['pathetic', 'condition', 'ask', 'extra', 'money', 'fraud']",negatif,negatif
+"['cheap', 'price', 'good', 'service']",positif,positif
+"['close', 'proximity', 'airport']",netral,positif
+"['helpful', 'staff', 'home', 'like', 'food', 'close', 'iskcon', 'temple', 'child', 'family', 'friendly', 'place']",positif,positif
+"['peaceful', 'inspite', 'busy', 'road', 'nearby', 'metro', 'walk', 'distance', 'autorickshaws', 'also', 'available', 'square']",positif,positif
+"['breakfast', 'complementary', 'extra', 'coffee']",netral,positif
+"['clean', 'good', 'atmosphere']",positif,positif
+"['must', 'tv', 'furniture', 'demolish', 'stage', 'toilets', 'condition', 'bad', 'tap', 'flush', 'work', 'ph', 'call', 'bell', 'order', 'food']",negatif,negatif
+['nothing'],netral,netral
+"['helpful', 'staff', 'good', 'quality', 'room']",positif,positif
+"['nice', 'staff', 'good', 'location', 'good', 'room']",positif,positif
+"['extremely', 'nice', 'stay', 'red', 'castle', 'great', 'hotel', 'extremely', 'helpful', 'staff', 'love', 'stay', 'room', 'well', 'appoint', 'lovely', 'hotel', 'facilities', 'hotel', 'excellent']",positif,positif
+"['good', 'place', 'conditioner']",positif,positif
+"['refuse', 'check']",netral,positif
+"['bathroom', 'location']",netral,positif
+"['staff', 'helpful', 'supportive', 'food', 'delicious']",positif,positif
+"['hotel', 'staff', 'knowledgeable', 'amenities', 'available', 'provide', 'us', 'excellent', 'recommendations']",positif,positif
+"['good', 'place', 'transit', 'stay', 'staff', 'well', 'talented', 'room', 'good', 'well', 'clean', 'good', 'testyoverall', 'stay', 'good']",positif,positif
+['good'],positif,positif
+['ok'],positif,positif
+"['room', 'ambience', 'ac', 'good', 'staff', 'take', 'care', 'well']",positif,positif
+['clean'],positif,positif
+"['location', 'nothing', 'good']",positif,positif
+"['staff', 'room', 'really', 'great']",positif,positif
+"['location', 'near', 'ndls', 'staff', 'also', 'good']",positif,positif
+"['closeness', 'airport']",netral,positif
+"['price', 'good']",positif,positif
+"['dinner', 'breakfast', 'spread', 'aweaome', 'good', 'choice', 'work', 'trip']",positif,positif
+"['reception', 'area', 'attractiveneed', 'improve', 'interior', 'reception', 'first', 'attraction', 'guest', 'enter', 'rest', 'things', 'ok']",positif,positif
+"['stay', 'location', 'great', 'near', 'kashmir', 'gate', 'dorms', 'clean', 'come', 'curtain', 'bedlight', 'locker', 'possible', 'leave', 'lugge', 'check', 'inout', 'staff', 'friendly']",positif,positif
+"['staff', 'extremely', 'helpful', 'one', 'staff', 'person', 'personally', 'escort', 'find', 'worker', 'atm', 'machine', 'three', 'previous', 'ones', 'dispense', 'cash', 'uk', 'open', 'account']",negatif,negatif
+"['good', 'thing', 'hotel', 'location']",positif,positif
+"['nice', 'experience', 'moment', 'arrive', 'staff', 'incredibly', 'welcome', 'go', 'beyond', 'ensure', 'stay', 'comfortable', 'enjoyable', 'room', 'spacious', 'wellappointed', 'amenities', 'one', 'could', 'ask', 'bed', 'comfortable', 'linens', 'high', 'quality', 'make', 'great', 'nights', 'sleep', 'gym', 'miss']",positif,positif
+"['safety', 'pretty', 'good', 'lock', 'main', 'gate', 'hotel', '11pm', 'thats', 'good']",positif,positif
+['location'],netral,positif
+"['hotel', 'easy', 'locate', 'main', 'road', 'staff', 'polite', 'happy', 'help', '247', 'overall', 'comfortable', 'stay', 'hotel']",positif,positif
+"['didnt', 'let', 'check', 'leave', 'road', 'midnight', 'worst', 'experience', 'ever']",negatif,negatif
+"['well', 'do']",netral,positif
+"['fake', 'property', 'name', 'hotel', 'didnt', 'exist', 'delhi']",negatif,negatif
+"['hotel', 'room', 'nice', 'comfortable', 'close', 'airport', 'food', 'beverage', 'excellent', 'highly', 'recommend', 'buffet', 'breakfast', 'verity', 'selection', 'indian', 'food']",positif,positif
+"['staff', 'good']",positif,positif
+"['everything', 'great', 'nice', 'helpful', 'staff', 'large', 'clean', 'room', 'good', 'facilities', 'breakfast', 'pretty', 'decent', 'restaurant', 'menu', 'quality', 'cook', 'quite', 'good', 'overall', 'recommend', 'hotel']",positif,positif
+"['worst', 'experience', 'room', 'stink', 'room', 'freshner', 'facilities', 'book', 'ac', 'room', 'give', 'us', 'non', 'ac', 'room', 'charge', 'full', 'money', 'check', 'time', 'bed', 'comfortable', 'sheet', 'dirty', 'recommend', 'stay']",negatif,negatif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'excellent', 'ceiling', 'fan', 'toilet', 'advantage', 'hot', 'delhi', 'climate', 'wifi', 'speed', 'around', '25', 'mbps', 'good']",positif,positif
+"['good', 'service', 'good', 'stafff']",positif,positif
+"['place', 'locate', 'within', 'walk', 'distance', 'nizamuddin', 'railway', 'station', 'quiet', 'area', 'room', 'spacious', 'clean', 'quiet', 'bed', 'comfortable', 'breakfast', 'good', 'communication', 'host', 'ajay', 'easy', 'quick', 'ajay', 'kind', 'welcome', 'honest', 'overbooking', 'problem', 'reservation', 'deal', 'ajay', 'efficiently', 'professionally', 'ajay', 'offer', 'us', 'one', 'night', 'free', 'neighbor', 'guesthouse', 'standard', 'place', 'addition', 'drop', 'us', 'train', 'station', 'morning', 'hesitation', 'recommend', 'place', 'stay', 'delhi']",positif,positif
+"['excellent', 'service']",positif,positif
+"['room', 'spacious', 'welldecorated', 'neatclean', 'stay', 'comfortable', 'breakfast', 'service', 'good', 'well']",positif,positif
+"['comfortable', 'convenient', 'friendly', 'staff']",positif,positif
+"['facilities', 'service']",netral,positif
+"['everything', 'great', 'kindness', 'host', 'mr', 'pankaj']",positif,positif
+"['staff', 'response']",netral,positif
+"['budget', 'hotel', 'near', 'delhi', 'railway', 'station', 'friendly', 'staff']",positif,positif
+"['hotel', 'miss', 'mention', 'location', 'address', 'even', 'nearby', '500', 'mtrs', 'geo', 'location', 'never', 'book', 'property', 'day', 'might', 'end', 'look', 'around']",negatif,negatif
+"['nice', 'quiet', 'neighbourhood', 'simultaneously', 'close', 'two', 'decently', 'connect', 'metro', 'station', 'staff', 'knowledgeable', 'oblige', 'bring', 'breakfast', 'room', 'nice', 'touch']",positif,positif
+"['exilent', 'hotel', 'good', 'staff', 'food', 'delicious', 'overall', 'good', 'hotel']",positif,positif
+"['friendly', 'people', 'room', 'look', 'ok', 'need', 'take', 'dust']",positif,positif
+"['awesome', 'stay']",positif,positif
+"['good', 'room']",positif,positif
+"['pankaj', 'host', 'incredibly', 'kind', 'always', 'go', 'extra', 'mile', 'help', 'recommendations', 'spoton', 'make', 'easy', 'us', 'navigate', 'new', 'delhi', 'firsttime', 'visitor', 'locate', 'quieter', 'area', 'felt', 'right', 'home', 'entire', 'stay', 'location', 'still', 'close', 'enough', 'city', 'explore', 'delhis', 'highlight', 'great', 'restaurants', 'nearby', 'couldnt', 'ask', 'better', 'place', 'stay', 'highly', 'recommend', 'tatvamasi', 'homestay', 'anyone', 'visit', 'delhi', 'big', 'thank', 'pankaj', 'friend', 'amaze', 'hospitality']",positif,positif
+['staaf'],netral,netral
+"['amaze', 'staff', 'good', 'food', 'immediate', 'attention', 'give', 'request', 'like', 'food']",positif,positif
+"['staff', 'courteous', 'excellent', 'food', 'excellent', 'clean', 'relax', 'room', 'wonderful', 'ambiance', 'travel', 'manyplaces', 'nothing', 'like']",positif,positif
+['good'],positif,positif
+"['room', 'location', 'bathroom', 'size', 'ac', 'bed', 'quality', 'cushion']",netral,positif
+['nothing'],netral,netral
+"['room', 'decent', 'size', 'bed', 'comfortable']",positif,positif
+"['beautiful', 'stay', 'hotel', 'equip', 'luxury', 'amenities', 'nice', 'property', 'well', 'train', 'staff', 'always', 'exceed', 'expectations', 'room', 'large', 'extremely', 'comfortable', 'location', 'fantastic']",positif,positif
+"['room', 'excellent', 'clean', 'room', 'service']",positif,positif
+"['management', 'goodeverybody', 'polite', 'n', 'well', 'manneredgreat', 'effortsfood', 'quality', 'nice', 'n', 'room', 'beautiful', 'would', 'definitely', 'recommend', 'place', 'friends', 'n', 'family']",positif,positif
+"['staff', 'cordial', 'drop', 'safely', 'till', 'cab', '1200']",positif,netral
+"['friendly', 'staff', 'beautiful', 'service']",positif,positif
+"['pretty', 'quiet', 'street', 'near', 'airport']",positif,positif
+"['hotel', 'charge', 'almost', 'double', 'without', 'give', 'bill', 'receipt', 'misbehave', 'also']",netral,negatif
+"['property', 'right', 'middle', 'market']",positif,positif
+"['would', 'like', 'give', 'special', 'shout', 'gr', 'team', 'khushboo', 'ananyya', 'one', 'girl', 'dont', 'remember', 'name', 'anniversary', 'hk', 'team', 'go', 'beyond', 'make', 'us', 'happy', 'special', 'thank', 'sujeet', 'executive', 'team', 'wentt', 'executive', 'lounge', 'soanim', 'aakash', 'showstopper', 'breakfast', 'ravi', 'chef', 'take', 'best', 'care', 'soo', 'thankyouu', 'soo', 'much', 'guy', 'lovee']",positif,positif
+"['window', 'room', 'window', 'ask', 'spill', 'money']",positif,positif
+['property'],netral,positif
+"['good', 'accommodation', 'per', 'room', 'rate']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['service', 'impeccable', 'room', 'spacious', 'beautifully', 'decorate', 'breakfast', 'delicious', 'well']",positif,positif
+"['waist', 'money']",netral,netral
+"['like', 'behaviour', 'staff', 'everything', 'room']",netral,positif
+['good'],positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['pleasant', 'stay', 'hotel']",positif,positif
+"['everything', 'good', 'hotel', 'problem', 'washroom', 'hope', 'future', 'hotel', 'staff', 'remove', 'problem']",positif,positif
+"['location', 'main', 'road', 'minute', 'walk', 'main', 'road', 'hence', 'rent', 'almost', 'half', 'however', 'staff', 'take', 'care', 'transfer', 'luggage', 'location', 'middle', 'hotels', 'restaurants', 'thing', 'hotel', 'doesnot', '24x7', 'hot', 'water', 'turn', 'boiler', 'twice', 'however', 'request', 'turn', 'well', 'hotel', 'safe', 'family']",positif,positif
+"['property', 'aesthetically', 'please', 'modern', 'intergration', 'digital', 'aspects', 'like', 'online', 'check', 'communicate', 'text', 'need', 'linen', 'bed', 'clean', 'comfortable', 'staff', 'helpful', 'friendly']",positif,positif
+"['condition', 'room', 'good', 'along', 'poor', 'light']",negatif,negatif
+"['dirty', 'place', 'maintenance']",negatif,negatif
+"['although', 'room', 'small', 'neat', 'clean']",positif,positif
+"['kitchen', 'balcony', 'space']",netral,positif
+"['staff', 'good', 'clean', 'room']",positif,positif
+"['staff', 'helpful', 'available', '247', 'location', 'far', 'center', 'felt', 'much', 'cleaner', 'properties', 'closer', 'central', 'part', 'city', 'room', 'clean', 'comfortable']",positif,positif
+"['hotel', 'fantastic']",positif,positif
+"['outstanding', 'hotel', 'cheap', 'rat']",positif,positif
+"['pathetic', 'hotel', 'worst', 'staff', 'non', 'cooperate', 'non', 'understand', 'unwanted', 'ambience', 'hotel']",negatif,negatif
+"['staff', 'amaze', 'reception', 'din', 'everything', 'helpful', 'food', 'fantastic', '3', 'kitchens', 'european', 'oriental', 'great', 'non', 'indian', 'traveller']",positif,positif
+"['nothing', 'like']",netral,netral
+"['first', 'fraudulent', 'book', 'book', 'hotel', 'another', 'name', 'book', 'stay', 'days', 'change', 'word', 'another', 'name', 'arrive', 'airport', 'call', 'give', 'phone', 'number', 'tell', 'call', 'another', 'call', 'number', 'one', 'answer', 'call', 'call', 'old', 'number', 'person', 'pick', 'fraudulent', 'doubtful', 'business', 'search', 'property', 'around', 'aerocity', 'next', '4', 'hrs', 'could', 'locate', 'place', 'driver', 'tell', 'lot', 'fraud', 'delhi', 'one', 'hotel', 'run', 'different', 'name', 'one', 'word', 'book', 'hotel', 'another', 'start', 'look', 'place', 'book', 'waste', 'money', 'drain', 'please', 'refrain', 'book', 'unknown', 'business', 'hotels', 'delhi', 'city', 'full', 'cheat', 'frauds', 'predate', 'innocent', 'customers', 'give', 'bad', 'name', 'business', 'owners', 'please', 'book', 'reputable', 'hotels', 'even', 'little', 'expensive']",negatif,negatif
+"['hotel', 'close', 'subway', 'station']",negatif,positif
+"['tv', 'channel', 'require', 'guest']",netral,netral
+"['extremely', 'helpful', 'people']",negatif,positif
+"['friendly', 'people', 'room', 'look', 'ok', 'need', 'take', 'dust']",positif,positif
+"['manager', 'staff', 'friendly', 'yes', 'try', 'best', 'fix', 'need', 'n', 'requirements', 'ac', 'good', 'wifi', 'ok', 'location', 'near', 'main', 'attractions', '1015', 'minutes', 'away', 'noida', 'car']",positif,positif
+"['good', 'location', 'purpose', 'good', 'variety', 'vegetarian', 'dish', 'breakfast']",positif,positif
+"['location', 'good', 'could', 'take', 'shower', 'head', 'airport', 'checkout', 'blast']",positif,positif
+"['price', 'issue', 'ask', 'us', 'pay', 'extra', 'pay', 'extra', 'stay']",netral,netral
+"['would', 'really', 'suggest', 'others', 'service', 'provide', 'good', 'completely', 'happy', 'way', 'provide', 'room', 'service', '24', 'hrs', 'room', 'service']",positif,positif
+"['room', 'pretty', 'clean', 'close', 'metro', 'station', 'market']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['staff', 'response']",netral,positif
+"['everthing', 'good', 'near', 'railway', 'station']",positif,positif
+"['beautiful', 'ambience', 'create', 'owners', 'nice', 'place', 'connect', 'like', 'mind', 'people', 'backpackers', 'world', 'definitely', 'recommend', 'everyone']",positif,positif
+"['bed', 'comfortable', 'staff', 'friendly']",positif,positif
+"['overall', 'room', 'others', 'facility', 'good']",positif,positif
+"['highly', 'recommend', 'solo', 'traveler', 'room', 'equip', 'modern', 'amenities', 'like', 'tea', 'kettle', 'card', 'payment', 'free', 'wifi', 'much', 'staff', 'supportive', 'helpful', 'visit', 'soon']",positif,positif
+"['stay', 'family', '13', 'days', 'staff', 'humble', 'listen', 'service', 'raise', 'family', 'members', 'food', 'delicious', 'prepare', 'per', 'requirement', 'allergic', 'food', 'ingredients', 'room', 'clean', 'hygiene', 'awesome']",positif,positif
+"['well', 'good', 'clean']",positif,positif
+"['hospitality', 'excellent', 'reception', 'boys', 'ali', 'zuned', 'helpful', 'arrange', 'tour', 'package', 'havent', 'think', 'get', 'awesome', 'hotel', 'stay', 'delhi', 'safe', 'place', 'affordable', 'price', 'recommend', 'place']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['like', 'location', 'breakfast', 'amaze', 'say', 'excellent', 'housekeep', 'far', 'excellent', 'supportive', 'room', 'contain', 'major', 'service', 'one', 'usually', 'require', 'night']",positif,positif
+"['hotel', 'extremely', 'dirty', 'poorly', 'managedthe', 'hotel', 'seriously', 'need', 'evaluate', 'options', 'improve', 'general', 'cleanliness', 'bad', 'staff', 'cheat', 'people']",negatif,negatif
+"['stay', 'friends', 'provide', 'nice', 'service', 'best', 'rooftop', 'restaurant', 'everything', 'great']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['locate', 'sundar', 'nagar', 'high', 'class', 'property', 'quarter', 'new', 'delhi', 'also', '10', 'min', 'car', 'nizamutdin', 'railway', 'station', 'train', 'agra', 'gamajun', 'mausoleum', 'fine', 'bakery', 'restaurant', '3', 'min', 'walk', 'also', 'reach', 'india', 'gate', 'foot', 'administrative', 'quarter', 'clean']",positif,positif
+"['food', 'really', 'nice', 'friendly', 'staff', 'supportive', 'staff']",positif,positif
+"['room', 'incredibly', 'comfortable', 'spacious', 'true', 'home', 'away', 'home']",positif,positif
+"['hotel', 'nice', 'staff', 'excellent', 'helpfull', 'nice', 'near', 'new', 'delhi', 'railway', 'station']",positif,positif
+"['great', 'location', 'valu', 'money']",positif,positif
+"['location', 'excellent', 'near', 'airport', 'taxis', 'easily', 'available', 'try', '345am', 'request', 'front', 'desk', 'quiet', 'room', 'provide', 'room', 'grind', 'floor', 'clean', 'quiet', 'night', 'ac', 'work', 'well', 'hot', 'water', 'available', 'washroom', 'clean', 'good', 'sleep', 'catch', 'early', 'morning', 'flight', 'recommend', 'property', 'travelers', 'seek', 'short', 'stay', 'flight', 'negative', 'airtel', 'signal', 'poor', 'room', 'go', 'call', 'maybe', 'network', 'work', 'well']",positif,positif
+"['great', 'stay', 'breakfast', 'staff', 'behaviour', 'nice', 'stay', 'experience', 'good', 'food', 'also', 'good', 'room', 'neat', 'clean', 'amaze']",positif,positif
+"['amaze', 'experience', 'staff', 'people', 'reside', 'love', 'aura', 'place', 'definitely', 'choose', 'stay']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['clean', 'peace', 'comfy', 'bed']",netral,positif
+"['location', 'good']",positif,positif
+"['staff', 'behaviour', 'good', 'helpfull', 'niche', 'food', 'feel', 'like', 'royal', 'location', 'close', 'near', '2', 'metro', 'station', 'jasola', 'shahine', 'bagh', 'apollo', 'jasola', 'also', 'near', '2', 'mall', 'pacifics', 'live', 'style', 'mall']",positif,positif
+['good'],positif,positif
+"['location', 'n', 'service']",netral,positif
+"['couldnt', 'breakfast', 'reach', 'airport', '230am', '7623']",netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['overall', 'nice', 'hotel', 'polite', 'staff', 'would', 'stay']",positif,positif
+"['good', 'hotel', 'value', 'money']",positif,positif
+"['affordable', 'room']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['ladies', 'drsk', 'helpful', 'friendly', 'everything', 'fine', 'location', 'nice']",positif,positif
+"['experience', 'bad', 'poor']",negatif,negatif
+"['best', 'service', 'wonderful', 'experience', 'friendly', 'friendly', 'lady', 'stay', 'best', 'cozy', 'food', 'great', 'great', 'fast', 'service']",positif,positif
+['well'],netral,positif
+"['attention', 'cleanliness']",positif,netral
+"['location', 'fantastic', 'near', 'metro', 'airport']",positif,positif
+"['location', 'good', 'near', 'metro', 'station', 'market', 'ac', 'good', 'work', 'room', 'clean', 'good', 'one', 'best', 'budget', 'rate', 'hotel', 'would', 'recommend', 'everyone']",positif,positif
+"['staff', 'friendly', 'kind', 'us', 'can', 'not', 'remember', 'name', 'thank', 'always', 'guard', 'front', 'door', 'staff', 'members', 'hotel', 'reception', 'could', 'feel', 'protect', 'outside']",positif,positif
+"['excellent', 'stay', 'property', 'love', 'stay', 'delhi']",positif,positif
+"['bad', 'room', 'condition', 'ac', 'work', 'bad', 'atmosphere']",negatif,negatif
+"['closer', 'area', 'interest']",netral,positif
+"['location', 'premium', 'staff', 'super', 'active', 'hotel', 'quite', 'good', 'hotel', 'close', 'new', 'delhi', 'railway', 'station']",positif,positif
+"['room', 'good', 'give', 'us', 'suit', 'room']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'location', 'food', 'delicious']",positif,positif
+"['property', 'good', 'clean', 'well', 'maintain']",positif,positif
+['cool'],positif,positif
+"['hotels', 'concierge', 'extremely', 'knowledgeable', 'helpful', 'provide', 'recommendations', 'local', 'attractions', 'din', 'options']",negatif,positif
+['area'],netral,positif
+['nothing'],netral,netral
+['nothing'],netral,netral
+['nothing'],netral,netral
+"['spacious', 'comfortable', 'room', 'friendly', 'courteous', 'staff']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['staff', 'veryyy', 'friendly', 'lovely', 'helpful', 'help', 'carry', 'heavy', 'luggage', 'station', 'hotel', 'kind', 'loyal', 'didnt', 'charge', 'anything', 'extra', 'bill', 'show', 'bookingcom', 'room', 'also', 'clean', 'picture']",positif,positif
+"['didnt', 'get', 'picture', 'newer', 'room', 'like', 'add', 'room', 'clean', 'quite', 'big', 'couch', 'fridge', '2', 'chair', 'table', 'metro', 'railway', 'station', '15', 'minutes', 'walk', 'restaurants', 'close', 'ac', 'good']",positif,positif
+"['good', 'hygiene', 'cleanness']",positif,positif
+"['location', 'good']",positif,positif
+"['location', 'good', 'facilities', 'good']",positif,positif
+['wifi'],netral,positif
+"['property', 'clean', '5', 'star', 'property', 'everything', 'time', 'neat', 'clean', 'staff', 'cooperative']",positif,positif
+"['location', 'excellent', 'property', 'clean', 'staff', 'courteous', 'enough', 'park', 'space']",positif,positif
+"['recently', 'delhi', 'work', 'luckily', 'get', 'hotel', 'dwaka', 'nice', 'hotel', 'get']",positif,positif
+"['value', 'money']",netral,positif
+"['nice', 'hotel', 'comfortable', 'stay', 'would', 'highly', 'recommend', 'service', 'staff', 'excellent', 'facilities', 'breakfast', 'also', 'great', 'would', 'stay']",positif,positif
+"['excellent', 'room', 'size', 'configuration', 'great', 'location']",positif,positif
+"['convenient', 'location']",netral,positif
+"['friendly', 'staff']",positif,positif
+['location'],netral,positif
+"['simple', 'hotel', 'nice', 'staff', 'good', 'size', 'room', 'get', 'nearly', 'everything', 'need', 'location', 'quite', 'good', 'part', 'delhi']",positif,positif
+"['nice', 'hotel', 'good', 'staff', 'kindly', 'improve', 'breakfast', 'quality', 'variety']",positif,positif
+"['peaceful', 'inspite', 'busy', 'road', 'nearby', 'metro', 'walk', 'distance', 'autorickshaws', 'also', 'available', 'square']",positif,positif
+"['staff', 'incredibly', 'friendly', 'professional', 'helpful', 'feel', 'safe', 'breakfast', 'delicious']",positif,positif
+"['staff', 'kind', 'helpful', 'room', 'nicely', 'do', 'comfortable', 'staff', 'professional', 'helpful', 'thnx', 'rashmi', 'always', 'nice', 'interaction']",positif,positif
+"['stay', '1', 'night', 'fine', 'clean', 'comfy', 'close', 'airport']",positif,positif
+"['safety', 'issue', 'staff', 'attitude']",netral,netral
+"['hotel', 'fantastic']",positif,positif
+"['true', 'small', 'business', 'local', 'bed', 'breakfast', 'experience', 'bnb', 'charm', 'staff', 'friendly', 'breakfast', 'delicious']",positif,positif
+"['best', 'couple', 'friendly', 'hotel', 'location']",positif,positif
+"['small', 'bathroom', 'full', 'water', 'avaliable']",positif,positif
+"['staff', 'behaviour', 'good', 'location', 'good', 'value']",positif,positif
+"['amaze', 'experience', 'staffamazing', 'food', 'special', 'thank', 'excellent', 'service', 'amaze', 'experiencethank', 'much', 'hospitality', 'offer']",positif,positif
+['good'],positif,positif
+"['hotel', 'maintain', 'well', 'ambience', 'good']",positif,positif
+['nice'],positif,positif
+"['breakfast', 'typical', 'indian', 'good', 'options', 'omelette', 'take', 'time', 'get', 'breakfast', 'place', 'eat', 'bed', 'room', 'really', 'good', 'share', 'area', 'sit', 'spend', 'time', 'someone', 'staff', 'also', 'sit', 'smoke', 'cigarettes', 'one', 'areas', 'seem', 'possible', 'sit', 'eat', 'breakfast']",positif,positif
+"['arjun', 'bhaiya', 'valet', 'sweetest', 'always', 'smile', 'face', 'matter', 'stressful', 'day', 'two', 'women', 'new', 'city', 'pretty', 'scar', 'naturally', 'sweet', 'us', 'give', 'us', 'directions', 'tell', 'us', 'could', 'find', 'metro', 'station', 'suppose', 'travel', 'one', 'place', 'another', 'even', 'arrange', 'autos', 'us', 'since', 'new', 'city', 'interact', 'us', 'friendly', 'respectful', '1010', 'arjun', 'bhaiya', 'next', 'time', 'come', 'delhi', 'im', 'go', 'stay', 'hotel', 'mainly', 'service', 'good', 'behaviour']",positif,positif
+"['locality', 'good', 'full', 'shop', 'near', 'metro', 'station', 'location', 'show', 'map', 'correct']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['step', 'hotel', 'fragrance', 'awesome', 'literally', 'refresh', 'mind', 'hotel', 'locate', 'peacefull', 'area', 'beautiful', 'swim', 'pool', 'friendly', 'staff', 'politeregarding', 'foodvery', 'delicious']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['spacious', 'room', 'good', 'location']",positif,positif
+['staff'],netral,positif
+"['staff', 'good', 'attentive', 'food', 'good', 'get', 'order', 'right']",positif,positif
+['ok'],positif,positif
+"['close', 'airport']",netral,positif
+"['location', 'good', 'easily', 'apporechble']",positif,positif
+"['room', 'spacious', 'aesthetically', 'design', 'attention', 'pay', 'smallest', 'detail', 'room', 'service', 'prompt', 'food', 'delicious']",positif,positif
+"['personel', 'kind', 'helpful', 'hotel', 'clean', 'comfortable', 'localization', 'perfect', 'highly', 'recommend', 'place', 'new', 'delhi']",positif,positif
+"['location', 'wise', 'good', 'enough', 'clean', 'room', 'good', 'staff', 'behaviour', 'awesome', 'service', 'thank']",positif,positif
+"['hotel', 'locate', 'mahipalpur', 'location', 'good', '10', 'minutes', 'drive', 'airport']",positif,positif
+"['clean', 'hygenic', 'spacious', 'room', 'decent', 'food', 'far', 'city', 'city', 'tour', 'point', 'close', 'good', 'leisure', 'business', 'traveller', 'budget', 'staff', 'friendly', 'helpful', 'definitely', 'think', 'review', 'help', 'make', 'right', 'choice']",positif,positif
+"['bad', 'choice', 'choose', 'stay']",negatif,positif
+"['beside', 'main', 'road', 'easy', 'find', 'everyone', 'helpful', 'need', 'find', 'specific', 'person', 'specific', 'problem']",positif,positif
+"['location', 'offer', 'best', 'connectivity', 'airport']",positif,positif
+"['nice', 'hotel', 'staff', 'behavior', 'good', 'hotel', 'location', 'fabulous', 'nice', 'experience', 'hotel']",positif,positif
+"['staff', 'cordial', 'room', 'neat', 'cleanfood', 'also', 'good']",positif,positif
+"['wonderful', 'stay', 'hotel', 'amenities', 'topnotch', 'staff', 'go', 'beyond', 'make', 'feel', 'welcome']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['j', 'house', 'nice', 'place', 'stay', 'staff', 'welcome', 'friendly', 'check', 'take', '5', 'minutes', 'get', 'room', 'clean', 'tidy', 'great', 'deal', 'compare', 'price', 'pay', 'quiet', 'get', 'good', 'sleep', 'long', 'day', 'roam', 'delhi', 'would', 'totally', 'recommend', 'place']",positif,positif
+"['clean', 'interior']",positif,positif
+"['good', 'improve']",positif,positif
+"['amenities', 'topnotch', 'well', 'comfortable', 'bed', 'wellequipped', 'kitchen']",positif,positif
+"['confort', 'room', 'nice', 'bathroom', 'near', 'delhi', 'airport']",positif,positif
+"['staff', 'professional', 'go', 'beyond', 'assist', 'us']",positif,positif
+"['hotel', 'good', 'staff', 'good', 'location', 'excellent', 'price', 'little']",positif,positif
+"['extremely', 'accommodate', 'allow', 'us', 'check', 'early', 'get', 'hotel', 'super', 'early', 'didnt', 'wan', 'na', 'wait', 'big', 'plus', 'service', 'exceptional', 'well', 'would', 'definitely', 'send', 'friend']",positif,positif
+"['friendly', 'staff', 'good', 'food', 'neatly', 'maintain', 'good', 'food', 'although', 'miss', 'breakfast', 'day']",positif,positif
+"['location', 'good', 'nothing', 'else']",positif,positif
+"['staff', 'friendly', 'enough']",positif,positif
+"['room', 'service', 'good']",negatif,positif
+"['beautiful', 'attention', 'detail']",positif,positif
+"['staff', 'extremely', 'helpful', 'friendly', 'also', 'keep', 'luggage', 'free', '2', 'weeks', 'away', 'delhi', '2', 'stay', 'room', 'fridge', 'work', 'locate', 'close', 'possible', 'bus', 'start', 'overnight', 'travel', 'bir', 'kangra', 'etc']",positif,positif
+"['sketchy', 'wi', 'fi']",netral,netral
+"['good', 'location', 'cleanliness']",positif,positif
+"['overall', 'great', 'experience', 'hotel', 'staff', 'incredibly', 'helpful', 'amenities', 'great', 'room', 'wonderful', 'clean', 'perfect', 'celebrate', 'birthday', 'weekend']",positif,positif
+['good'],positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'location', 'breakfast', 'good']",positif,positif
+"['location', 'quality', 'room']",netral,positif
+"['staff', 'professional', 'room', 'clean']",positif,positif
+['nothing'],netral,netral
+"['everything', 'ujjol', 'shwapan', 'dada', 'helpful', 'friendly', 'possible', 'summer', 'extend', 'air', 'conditioner', 'time', 'please', 'thank']",positif,positif
+"['bus', 'day', 'relief', 'total', 'pleasure', 'greet', 'welcome', 'cheerful', 'enthusiastic', 'staff', 'room', 'hotel', 'well', 'appoint', 'creatively', 'decorate', 'plumb', 'excellent', 'work', 'intend', 'comfortable', 'stay', 'food', 'room', 'service', 'scrummy', 'thank', 'wonderful', 'staff']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['find', 'beautiful', 'place', 'delhi', 'service', 'good', 'im', 'enjoy', 'trip', 'gallivanto', 'inn', 'food', 'facilities', 'awesome', 'helpful', 'staff', 'behaviour', 'experience', 'good']",positif,positif
+"['staff', 'reception', 'mr', 'lucky', 'abdar', 'particular', 'supportive', 'helpful', 'ive', 'different', 'hotels', 'paharganj', 'stand', 'customer', 'focus', 'service', 'thank']",positif,positif
+"['location', 'premium', 'staff', 'super', 'active', 'hotel', 'quite', 'good', 'hotel', 'close', 'new', 'delhi', 'railway', 'station']",positif,positif
+"['license', 'take', 'foreign', 'guest', 'experience', 'four', 'member', 'family', 'worst', 'ever', 'reach', 'hotel', 'go', 'round', 'round', 'around', 'city', 'poor', 'address', 'hotel', 'late', 'even', 'tell', 'accept', 'foreign', 'travelers', 'worst', 'ever', 'travel', 'situation', 'entire', 'life']",negatif,negatif
+"['prompt', 'attention', 'staff', 'helpful']",positif,positif
+"['hotel', 'facilities', 'good', 'room', 'almost', 'photos', 'food', 'also', 'reasonable', 'taste', 'good']",positif,positif
+"['location', 'perfect', 'staff', 'exceptional', 'use', 'hotel', 'pick', '2', 'time', 'go', 'well', 'anything', 'help']",positif,positif
+"['hotel', 'ripoff']",netral,netral
+['nothing'],netral,netral
+"['nice', 'hotel', 'good', 'staff', 'kindly', 'improve', 'breakfast', 'quality', 'variety']",positif,positif
+"['location', 'clean', 'room', 'comfort']",positif,positif
+"['availability', 'convenient', 'park', 'plus']",netral,positif
+"['location', 'n', 'service']",netral,positif
+"['stay', 'nothing', 'short', 'amaze', 'attention', 'detail', 'personalize', 'service', 'make', 'us', 'feel', 'truly', 'pamper']",positif,positif
+"['nothing', 'actually', 'show', 'pics', 'thing', 'inside', 'room', 'mean', 'bed', 'empty', 'space', 'bathtub', 'attach', 'toilet', 'u', 'cant', 'sleep', 'dirty']",negatif,negatif
+"['super', 'friendly', 'helpful', 'staff', 'definitely', 'comfortable', 'stay', 'highly', 'recommend', 'family', 'friends']",positif,positif
+"['friendly', 'staff']",positif,positif
+"['stuff', 'nice']",positif,positif
+"['felt', 'like', 'visit', 'friends']",netral,positif
+"['emplacement', 'safety', 'zone', 'near', 'metro']",positif,positif
+"['bad', 'experience', 'agence', 'property', 'non', 'comercial', 'owne', 'property', 'many', 'issue', 'request', 'u', 'discontinue', 'property', 'ur', 'list', 'proper', 'sevice', 'tv', 'teliphon', 'work', 'one', 'staff', 'reception', 'person', 'always', 'argument', 'customers']",positif,positif
+"['завтрак', 'вкусный', 'есть', 'европейские', 'блюда', 'хороший', 'бар', 'с', 'красивым', 'видом', 'на', 'крыше']",netral,netral
+"['overall', 'experience', 'good', 'location', 'excellent']",positif,positif
+"['room', 'big', 'kitchen', 'usefull', 'swim', 'pool', 'gym', 'center', 'nice']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['food', 'good']",positif,positif
+['location'],netral,positif
+['location'],netral,positif
+"['location', 'near', 'metro', 'rarely', 'peaceful', 'delhi', 'reception', 'staff', 'rude', 'friendly', 'food', 'tasty', 'budget']",positif,positif
+['good'],positif,positif
+"['location', 'staff', 'behavior', 'service']",netral,positif
+"['good', 'stay', 'nitya', 'maharani', 'staff', 'cooperative']",positif,positif
+"['nothing', 'tell', 'location', 'congest', 'may', 'good', 'people', 'may', 'good', 'people', 'area', 'totally', 'hotel', 'dominate', 'area']",positif,positif
+"['breakfast', 'excellent', 'market', 'near']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['goods', 'comfortable', 'stay', 'expectations', 'room', 'clean', 'staff', 'friendlyfoods', 'tasty']",positif,positif
+"['clean', 'nice', 'comfortable', 'theres', 'kitchen', 'use', 'weve', 'lot', 'hotels', 'delhi', 'best', 'one']",positif,positif
+"['continental', 'breakfast', 'options', 'friendly', 'staff', 'overall', 'good', 'experience', 'breakfast']",positif,positif
+"['hotel', 'room', 'good', 'clean']",positif,positif
+"['service', 'staff', 'good', 'room', 'decent', 'ac', 'work', 'good']",positif,positif
+"['location', 'space', 'staff']",netral,positif
+"['good', 'service']",positif,positif
+"['shock', 'saw', 'room', 'go', 'find', 'another', 'hotel', 'staff', 'didnt', 'return', 'money', 'though', 'didnt', 'stay', '15', 'minutes']",negatif,positif
+"['nothing', 'good', 'property', 'bookingcom', 'ashamed', 'advertise', 'property', '4', 'star']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['staff', 'awesome', 'helpful', 'mohd', 'danish', 'specially']",positif,positif
+"['value', 'money', 'better', 'expect', 'bed', 'nice', 'ac', 'temperature', 'satisfactory']",positif,positif
+"['reach', 'property', 'perception', 'get', 'change', 'property', 'old', 'maintain', 'well', 'excite', 'upcoming', 'stay', 'saket', 'plus', 'point', 'pvr', 'cinemas', 'opposite', 'side', 'hotel', 'locate', 'main', 'road', 'staff', 'courteous', 'helpful']",positif,positif
+"['short', 'getaway', 'n', 'family', 'property', 'meet', 'expectations', 'location', 'comfort']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['service', 'good', 'friendly', 'staff']",positif,positif
+"['nothing', 'much']",positif,positif
+"['reach', 'property', 'ask', 'move', 'another', 'hotel', 'rather', 'hotel', 'book', 'staff', 'arrogant', 'long', 'deliberation', 'insistence', 'allow', 'remain', 'arrotech', 'bad', 'experience', 'check', 'take', 'hour']",negatif,negatif
+"['ac', 'work']",netral,positif
+"['staff', 'helpful', 'tom', 'bright', 'clean', 'location', 'okay', 'shortish', 'walk', 'cp']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['overall', 'everything', 'ok']",positif,positif
+"['good', 'hotel', 'food', 'tasty', 'staff', 'good']",positif,positif
+"['breakfast', 'fresh', 'hot', 'location', 'hotel', 'amaze', 'room', 'service', 'provide', 'also', 'greatoverall', 'great', 'stay']",positif,positif
+"['staff', 'nice', 'thats', 'good', 'thing', 'room', 'size', 'large', 'waste']",positif,positif
+"['decent', 'room', 'food', 'general', 'ambience', 'pretty', 'good']",positif,positif
+['ac'],netral,positif
+"['breakfast', 'awesomemanager', 'familiar', 'cooperative']",positif,netral
+"['like', 'standard', 'hotel']",netral,positif
+"['location', 'ok', 'staff', 'help', 'relocate', 'different', 'hotel', 'orion', 'group', 'closeby', 'much', 'better', 'one', 'without', 'cost', 'impact', 'also', 'transfer', 'luggage', 'still', 'sleep', 'place', '2', 'nights', 'instead', '7']",positif,positif
+"['staff', 'location']",netral,positif
+"['location', 'goodit', 'near', 'metro', 'station']",positif,positif
+"['everything', 'nice', 'book', 'deluxe', 'room', 'provide', 'premium', 'room', 'single', 'request']",positif,positif
+['nice'],positif,positif
+"['luxury', 'hotels', 'area']",netral,positif
+"['affordable', 'room', 'value', 'money', 'management', 'take', 'care', 'issue']",netral,positif
+['location'],netral,positif
+"['location', 'food', 'good', 'hotel', 'clean']",positif,positif
+"['covid', 'time', 'stay', 'shanti', 'villa', 'safe', 'secure', 'hotel', 'lovely', 'bed', 'comfortable', 'staff', 'friendly']",positif,positif
+"['dirty', 'bed', 'upon', 'entry', 'windows', 'room', 'dirty']",negatif,negatif
+"['hot', 'water']",negatif,positif
+"['clean', 'n', 'safe']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['despite', 'call', 'front', 'desk', '3', 'time', 'tv', 'work', 'one', 'respond']",netral,positif
+"['room', 'neet', 'clean', 'nice', 'location']",positif,positif
+"['safe', 'stay']",positif,positif
+['service'],netral,positif
+['nothing'],netral,netral
+"['hide', 'entrence', 'ambience', 'poor', 'photo', 'display', 'totally', 'different', 'reality']",negatif,negatif
+"['nice', 'ambiencehuge', 'lobby', 'area', 'fully', 'air', 'condition', 'room', 'spacious', 'remarkable', 'soundproof', 'see', 'outer', 'area', 'without', 'noise', 'restaurant', 'good', 'service', 'friendly', 'would', 'recommend', 'hotel', 'friends', 'family']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['bed', 'room', 'show', 'website', 'dirty', 'toilet', 'wash', 'basin', 'clean', 'lot', 'mosquitoes', 'come', 'break', 'exhaust', 'fan', 'bedsheets', 'pillow', 'cover', 'smell', 'like', 'wash', 'months', 'ac', 'cool', 'fan', 'horrible', 'experience', 'dont', 'know', 'bookingcom', 'even', 'promote', 'hotel', 'website']",negatif,negatif
+"['excellent', 'stay', 'good', 'location', 'efficient', 'service']",positif,positif
+"['great', 'location', 'really', 'love', 'character', 'hotel', 'restaurant', 'fantastic', 'staff', 'friendly', 'helpful']",positif,positif
+"['worth', 'money', 'mosquitoes', 'room', 'complain', 'staff', 'proper', 'resolutionbathroom', 'dirty', 'stain', 'completely']",negatif,negatif
+"['staff', 'impecable', 'room', 'clean', 'bigger', 'think', 'beautifully', 'clean', 'decorate', 'room', 'bathroom']",positif,positif
+['service'],netral,positif
+"['hotel', 'good', 'location', 'check', 'fast', 'staff', 'helpful']",positif,positif
+"['comfortable', 'everything', 'satisfy']",positif,positif
+"['good', 'staff', 'behaviour', 'good', 'modern', 'amenities']",positif,positif
+"['nice', 'hotel', 'good', 'location', 'nice', 'room', 'hotel', 'staff', 'nice']",positif,positif
+"['nice', 'hotel', 'behavior', 'staff', 'outstanding', 'recommend']",positif,positif
+"['exelentstarting', 'location', 'fscilities', 'food', 'ambiencestuff', 'beheaviour', 'cooperation', 'specialy', 'ranjana', 'madams', 'humbleness', 'kindness', 'fellow', 'feel', 'mentionable', 'allthe', 'sftuff', 'good', 'wellbeheaved', 'also', 'want', 'take', 'name', 'viky', 'kumars', 'name', 'atten', 'everytime', 'softly', 'wish', 'success', 'entire', 'team']",positif,netral
+"['nothing', 'raise', 'complaint', 'government', 'shut', 'hotel']",negatif,negatif
+"['amaze', 'experience', 'staffamazing', 'food', 'special', 'thank', 'excellent', 'service', 'amaze', 'experiencethank', 'much', 'hospitality', 'offer']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['good'],positif,positif
+"['location', 'close', 'max', 'hospital', 'big', 'malls', 'free', 'secure', 'park', 'helpful', 'staff', 'good', 'quality', 'food', 'available', 'till', '11pm', 'daily', 'room', 'clean', 'value', 'money']",positif,positif
+"['give', 'invoice', 'ask', 'checkin', 'checkout', '_', 'say', 'provide', 'whatsapp', 'happen', 'either']",netral,netral
+"['helpful', 'staff']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['room', 'clean', 'bathroom', 'clean', 'reception', 'staff', 'good', 'problem', 'doesnt', 'fooding', 'facility', 'still', 'consider', 'hotel', 'really', 'like', 'nice', 'comfortable', 'would', 'give', '4', 'star', '5']",positif,positif
+"['excellent', 'stay', 'delicious', 'quality', 'food', 'marvelous', 'value', 'money', 'great', 'food', 'cleanliness', 'staff', 'well', 'train', 'cooperative']",positif,positif
+"['right', 'locatio', 'want', 'stay', 'pagar', 'ganj', 'little', 'crazy', 'noise', 'clean', 'safe', 'place', 'stuff', 'friendly', 'helpful']",positif,positif
+"['properties', 'hotel', 'name', 'pathetic', 'tie', 'call', 'ur', 'customer', 'case', 'doesnt', 'exist', 'book', 'another', 'hotel', 'mid', 'night', 'sad', 'sure', 'never', 'use', 'ur', 'service']",negatif,negatif
+"['staff', 'polite', 'room', 'clean']",positif,positif
+"['good', 'sttaf', 'clean', 'hotel', 'comfort']",positif,positif
+"['nothing', 'good', 'property', 'worst', 'experience', 'please', 'dont', 'choose', 'property', 'ever']",negatif,negatif
+"['nothing', 'hotel', 'worst']",negatif,negatif
+"['location', 'comfortroom', 'rate', 'staff']",netral,netral
+"['lift', 'bathroom', 'space', 'equal', 'oak', 'maple', 'somehow', 'reasonable', 'price', 'stay', 'far']",positif,positif
+"['good', 'place', 'stay']",positif,positif
+"['staff', 'accommodate', 'location', 'nice', 'quiet', 'room', 'clean', 'decent', 'always', 'free', 'bottle', 'water', 'overall', 'satisfy']",positif,positif
+"['red', 'light', 'area']",positif,positif
+"['great', 'experience', 'stay', 'fabexpress', 'station', 'ii', 'peaceful', 'atmosphere', 'clean', 'large', 'room', 'staff', 'polite', 'courteous', 'definitely', 'stay', 'whenever', 'new', 'delhi', 'everything', 'perfect']",positif,positif
+"['amaze', 'experience', 'stay', 'unique', 'yet', 'luxurious', 'hotel']",positif,positif
+"['clean', 'neat', 'service']",positif,positif
+"['hotel', 'staff', 'really', 'good', 'main', 'market']",positif,positif
+"['vibe', 'also', 'simple', 'amaze', 'energy', 'hotel']",positif,positif
+"['hotel', 'good', 'expect', 'hotel', 'staff', 'also', 'cooperative', 'locate', 'prime', 'area', 'karol', 'bagh', 'book', 'hotel', 'next', 'time']",positif,positif
+"['staff', 'reception', 'professional', 'well', 'behavedroom', 'service', 'cleanliness', 'goodfood', 'tasty']",positif,positif
+"['every', 'thing']",netral,positif
+"['good', 'hotel', 'large', 'room', 'comfortable', 'bed', 'great', 'breakfast', 'staff', 'friendly', 'usual', 'yet', 'professional', 'really', 'recommend']",positif,positif
+"['always', 'pleasure', 'stay', 'itc']",netral,positif
+"['place', 'good', 'need', 'take', 'care']",positif,positif
+"['good', 'staff']",positif,positif
+"['room', 'comfortable', 'receptionist', 'also', 'good', 'person']",positif,positif
+['nothing'],netral,netral
+"['home', 'away', 'home', 'great', 'location', 'quietish', 'sububarb', 'accessible', 'travel', 'place', 'interest', 'great', 'customer', 'service', 'start', 'end', 'regular', 'communication', 'book', 'make', 'arrival', 'staff', 'warm', 'friendly', 'accessible', 'helpful', 'establishment', 'felt', 'safe', 'clean', 'comfortable', 'relax', 'environment', 'common', 'room', 'great', 'alternative', 'want', 'restrict', 'room']",positif,positif
+"['breakfast', 'order', 'cutlery', 'good', 'quality', 'location', 'congest', 'market', 'traffic', 'jam', 'often']",negatif,positif
+['room'],netral,positif
+"['hotel', 'wonderful', 'pleasantly', 'surprise', 'quality', 'room', 'service', 'always', 'great', 'experience', 'price', 'make', 'fantastic']",positif,positif
+"['great', 'location', 'fancy', 'hotel', 'even', 'big', 'perfect', 'rest']",positif,positif
+"['room', 'small', 'comfortable']",positif,positif
+"['every', 'thing', 'good', 'clean', 'staff', 'helpful', 'food', 'good', 'near', 'delhi', 'airport']",positif,positif
+"['enter', 'hotel', 'different', 'world', 'absolutely', 'serene', 'inside', 'hotel', 'japanese', 'feel', 'cater', 'japanese', 'clients', 'food', 'one', 'best', 'little', 'option', 'indian', 'food', 'still', 'great', 'food', 'room', 'lovely', 'studio', 'room', 'microwave', 'facility', 'cook', 'maggi', 'heat', 'nice', 'dish', 'restaurant', 'serve', 'authentic', 'japanese', 'sushi', 'love', 'heavy', 'pocket', 'light', 'either']",positif,positif
+"['staff', 'polite', 'good', 'stay', 'comfortable', 'good']",positif,positif
+"['luxury', 'hotel', 'nice', 'moments']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['breakfast', 'dinner', 'excellent', 'hotel', 'clean', 'staff', 'polite', 'difficulty', 'checkin', 'hotel', 'staff', 'accommodate', 'late', 'check', 'demand', 'lobby', 'hotel', 'big']",positif,positif
+"['refuse', 'take', 'call', 'say', 'book', 'cancel', 'ask', 'come', 'call', 'many', 'time', 'answer']",positif,negatif
+"['right', 'onset', 'wife', 'fell', 'love', 'place', 'afzal', 'hope', 'get', 'name', 'right', 'gem', 'welcome', 'us', 'heart', 'warm', 'smile', 'finish', 'formalities', 'checkin', 'show', 'room', 'blow', 'away', 'quite', 'bbs', 'different', 'place', 'tastefully', 'do', 'lovely', 'lounge', 'area', 'grind', 'floor', 'first', 'floor', 'balcony', 'full', 'lovely', 'plant', 'forget', 'superb', 'collection', 'book', 'freshen', 'get', 'drench', 'rain', 'serve', 'freshly', 'make', 'rice', 'dal', 'along', 'superb', 'yogurt', 'decide', 'take', 'power', 'nap', 'hour', 'next', 'thing', 'know', 'doze', 'good', '25', 'hours', 'thank', 'comfort', 'room', 'noise', 'free', 'surroundings', 'next', 'day', 'morning', 'breakfast', 'delight', 'hot', 'parathas', 'wife', 'omelette', 'along', 'toast', 'fresh', 'fruit', 'cereals', 'side', 'extend', 'stay', 'hours', 'able', 'get', 'taxi', 'go', 'airport', 'afzal', 'arrange', 'jiffy', 'thank', 'team', 'neem', 'little', 'hide', 'gem']",positif,positif
+"['location', 'okay', 'staff', 'nice']",positif,positif
+"['good', 'service']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['kindly', 'update', 'payment', 'bookingcom', 'unfair']",positif,negatif
+"['best', 'experience']",positif,positif
+"['friendly', 'staff', 'desk', 'good', 'location']",positif,positif
+"['primary', 'advantage', 'extremely', 'cooperative', 'helpful', 'staff', 'quality', 'room', 'commendable', 'especially', 'consider', 'cos']",positif,positif
+"['hotel', 'good']",positif,positif
+"['location', 'really', 'good', 'saket', 'metro', 'qutub', 'minar', 'near', 'eateries', 'also', 'nearby']",positif,positif
+"['room', 'clean']",positif,positif
+"['hotel', 'absolutely', 'meet', 'standards', 'expectations', 'family', 'cricket', 'find', 'bed', 'day', '2', 'move', 'premium', 'room', 'dodgy', 'electrics', 'hot', 'water', 'tv', 'due', 'poor', 'experience', 'want', 'leave', 'hotel', 'one', 'night', 'early', 'find', 'alternative', 'accommodation', 'inform', 'hotel', 'cancellation', 'policy', 'hotel', 'manager', 'extremely', 'rude', 'imply', 'throw', 'fuss', 'didnt', 'want', 'play', 'full', 'bill', 'whilst', 'take', 'back', 'insinuation', 'explain', 'ask', 'check', 'one', 'night', 'early', 'unhappy', 'accommodation', 'ask', 'discount', 'room', 'upgrade', 'room', 'weak', 'wifi', 'signal', 'mean', 'tv', 'work', 'need', 'wifi', 'ceiling', 'fan', 'wobble', 'place', 'room', 'bathroom', 'fan', 'hang', 'ceiling', 'good', 'stay', 'would', 'like', 'form', 'compensation', 'give', 'ask', 'room', 'tv', 'hot', 'water', 'one', 'night', 'hot', 'water', 'two', 'nights', 'tv', 'happy', 'stay', 'one', 'little', 'bite']",negatif,positif
+"['room', 'service', 'cleanliness']",netral,positif
+"['excellent', 'management', 'humble', 'staff', 'room', 'well', 'maintain', 'require', 'facilities', 'frent', 'desk', 'staff', 'room', 'service', '24', 'hrs', 'available', 'food', 'testy', 'locate', 'good', 'location', 'easy', 'find', 'recommend', 'everyone']",positif,positif
+"['home', 'india', 'already', 'second', 'time', 'first', 'time', 'pandemics', 'nothing', 'change', 'since', 'spotless', 'clean', 'exceptionally', 'nice', 'host', 'always', 'helpful', 'even', '2', 'good', 'quite', 'location', 'residential', 'area', 'absolutely', 'safe', 'comfortable', 'bed', 'complimentary', 'water', 'everyhting', 'perfect', 'best', 'value', 'money', 'accommodations', 'try', 'delhi']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['nothing'],netral,netral
+"['staff', 'behaviour']",netral,positif
+"['charge', 'extra', 'money']",netral,netral
+"['condition', 'room', 'good', 'along', 'poor', 'light']",negatif,negatif
+"['good', 'spacious', 'toom']",positif,positif
+['good'],positif,positif
+"['hotel', 'great', 'location', 'room', 'well', 'equip', 'hospitality', 'great', 'love', 'stay', 'staff', 'spa', 'love', 'experience']",positif,positif
+"['charge', '1500', 'room', 'actually', 'bookingcom', 'oyo', 'fraud', 'people', 'give', 'room', 'offer', '1000', 'hotel', 'manager', 'charge', '1500', 'say', 'bookingcom', 'pay', 'oyo', 'us', 'give', '1500', 'book', 'totally', 'fraud']",netral,netral
+"['room', 'comfortable', 'receptionist', 'also', 'good', 'person']",positif,positif
+['staff'],netral,positif
+"['like', 'hotel', 'manager', 'helpful', 'accommodate', 'need']",netral,positif
+"['good', 'healthy']",positif,positif
+"['location', 'ambience']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['easy', 'find', 'main', 'bazaar', 'shop', 'eat', 'drink', 'doorstep', 'desk', 'staff', 'incredibly', 'accommodate', 'friendly', 'always', 'ask', 'offer', 'help', 'guidance', 'need', 'staff', 'really', 'smile', 'warmth', 'come', 'hotel', 'many', 'years', 'continue', 'every', 'time', 'visit', 'india', 'safe', 'solo', 'female', 'travellers', 'great', 'hotel', 'wonderful', 'staff']",positif,positif
+"['hotel', 'nice', 'depend', 'book', 'good', 'value', 'money']",positif,positif
+"['value', 'money']",netral,positif
+"['staff', 'ok', 'location', 'alright', 'ok', 'night']",positif,positif
+"['best', 'place', 'cozy', 'staff', 'cool', 'really', 'good', 'time', 'friends', 'villa']",positif,positif
+"['high', 'value', 'money', 'friendly', 'staff', 'quiet', 'location']",positif,positif
+['food'],netral,positif
+"['visit', 'first', 'time', 'hotel', 'marina', 'family', 'stay', 'comfortable', 'room', 'neat', 'clean', 'food', 'amaze']",positif,positif
+"['employee', 'nice', 'room', 'clean', 'environment', 'hotel', 'great']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['bed', 'n', 'room', 'comfortable', 'peace']",positif,positif
+['fake'],negatif,negatif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'hospitality', 'service']",positif,positif
+"['worth', 'money', 'near', 'railway', 'station', 'comvenient', 'stay']",positif,positif
+"['guy', 'reception', 'good', 'helpful']",positif,positif
+"['nice', 'stay']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['well'],netral,positif
+"['clean', 'tidy', 'inside', 'staff', 'excellent', 'could', 'enough', 'customer', 'return']",positif,positif
+"['hospitable', 'staff', 'food', 'decent']",positif,positif
+"['good', 'position']",positif,positif
+"['good', 'location', 'food', 'price', 'high']",positif,positif
+"['please', 'hospitality', 'would', 'especially', 'like', 'mention', 'shashank', 'make', 'stay', 'really', 'relax', 'accommodate', 'request', 'service', 'excellent', 'food', 'cleanliness', 'room']",positif,positif
+"['hospitality', 'near', 'public', 'transport', 'hygiene', 'food']",positif,positif
+"['haunt', 'place', 'scary', 'hopeless', 'bed', 'sheet', 'clean', 'lot', 'hairs', 'dust', 'around']",negatif,negatif
+['location'],netral,positif
+"['friendly', 'staff', 'great', 'value', 'money']",positif,positif
+"['welcome', 'host', 'wait', 'us', 'already', 'checkin', 'serve', 'us', 'welcome', 'tea', 'lot', 'information', 'provide', 'go', 'dinner', 'coffee', 'host', 'even', 'walk', 'us', 'area', 'many', 'restaurants', 'make', 'various', 'suggestions', 'dinner', 'choices', 'accommodation', 'simple', 'cozy', 'come', 'everything', 'need', 'short', 'stay']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['worst', 'hotel', 'rough', 'attitude', 'staff']",negatif,negatif
+"['location', 'good', 'near', 'model', 'town', 'metro', 'close', 'hudson', 'lane', 'ac', 'showertv', 'available', 'work']",positif,positif
+"['best', 'hotel', 'dwarka', 'couple', 'none', 'hospitality', 'ambience', 'feature', 'comparison', 'vivanta', 'outstanding', 'experience', 'visit']",positif,positif
+"['room', 'small', 'price', 'pay', 'okay', 'stay']",positif,positif
+"['room', 'clean', 'spacious', 'neatly', 'do', 'bathroom', 'comfortably', 'large', 'clean', 'linen', 'towel', 'decent', 'breakfast', 'well']",positif,positif
+"['location', 'great', 'nicely', 'maintain', 'property', 'food', 'quality', 'good', 'pricey']",positif,positif
+"['fatal', 'hicimos', 'la', 'reserva', 'través', 'de', 'book', 'una', 'vez', 'llegamos', 'al', 'sitio', 'sabíamos', 'por', 'dónde', 'acceder', 'así', 'que', 'llamamos', 'al', 'contacto', 'lo', 'único', 'que', 'nos', 'dicen', 'es', 'hotel', 'les', 'escribimos', 'llamamos', 'en', 'los', 'contactos', 'que', 'nos', 'daban', 'desde', 'la', 'confirmación', 'e', 'igualsin', 'ningún', 'tipo', 'de', 'explicación']",netral,netral
+"['номера', 'не', 'первой', 'свежести', 'но', 'все', 'аккуратно', 'и', 'чисто']",netral,netral
+"['room', 'good']",positif,positif
+"['fabulous', 'stay', 'room', 'clean', 'opposite', 'aerocity', 'near', 'airport', 'staff', 'humble', 'food', 'wad', 'good', 'budget', 'hotel', 'price', 'best', 'hotel', 'delhi', 'recommend', '1010']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['stay', 'citizen', 'good', 'face', 'problems', 'toilet', 'room', 'clean', 'quite', 'spacious', 'well', 'wifi', 'good', 'speed', 'ac', 'life', 'saver', 'scorch', 'delhi', 'heat', 'recommend', 'stay']",positif,positif
+"['room', 'spacious', 'clean', 'incredible', 'natural', 'light', 'staff', 'super', 'courteous', 'service', 'prompt', 'location', 'great', 'easily', 'accessible', 'check', 'check', 'smooth', 'one', 'room', 'early', 'check', 'umesh', 'kumar', 'make', 'sure', 'request', 'consider', 'totally', 'value', 'money', 'certainly', 'recommend', 'anyone', 'know', 'theyre', 'travel', 'delhi']",positif,positif
+"['price', 'location', 'good', 'work']",positif,positif
+"['unhygieniccard', 'machine', 'workingtowel', 'facilities', 'availableunhygienic', 'environment']",netral,netral
+"['location', 'excellent', 'trip', 'new', 'delhi']",positif,positif
+['good'],positif,positif
+"['staff', 'courteous', 'room', 'size', 'also', 'big', 'comfortable']",positif,positif
+"['good', 'staff', 'service', 'good', 'staff', 'wonderful', 'experience', 'room', 'well', 'maintain', 'neat', 'clean', 'definitely', 'recommend', 'hotel', 'family', 'friends']",positif,positif
+"['really', 'happy', 'stay', 'actullay', 'extend', 'stay', 'like', 'calmness', 'behaviour']",positif,positif
+"['location', 'good', 'convenient', 'room', 'basic', 'amenities', 'good', 'condition', 'ac', 'tv', 'small', 'fridge', 'safe', 'electric', 'kettle', 'place', 'work', 'well']",positif,positif
+"['staff', 'polite', 'helpful']",positif,positif
+"['staff', 'friendly', 'professional', 'guest', 'orient', 'whether', 'front', 'desk', 'spa', 'restaurant', 'housekeep', 'everything', 'do', 'passion', 'kindness', 'spa', 'treatment', 'excellent', 'restaurant', 'menue', 'great', 'interieur', 'hotel', 'beautiful', 'tasteful', 'overall', 'hit']",positif,positif
+"['staff', 'behaviour']",netral,positif
+"['couple', 'friendly', 'stay']",positif,positif
+"['staff', 'veryyy', 'friendly', 'lovely', 'helpful', 'help', 'carry', 'heavy', 'luggage', 'station', 'hotel', 'kind', 'loyal', 'didnt', 'charge', 'anything', 'extra', 'bill', 'show', 'bookingcom', 'room', 'also', 'clean', 'picture']",positif,positif
+"['thank', 'great', 'experience']",positif,positif
+"['staff', 'room']",netral,positif
+"['room', 'ac', 'noisy', 'correct', 'even', 'complain', 'reception', 'provide', 'bill', 'even', 'ask']",netral,netral
+"['morning', 'staf', 'good']",positif,positif
+"['great', 'location', 'close', 'connaught', 'place', 'lovely', 'receptionlobby', 'area']",positif,positif
+"['follow', 'message', 'owner', 'feedback', 'post', 'stay']",netral,netral
+"['easily', 'accessible', 'smooth', 'check', 'process', 'hotel', 'staff', 'courteous']",positif,positif
+"['location', 'good']",positif,positif
+"['good', 'location', 'good', 'food', 'room', 'specious', 'neat', 'clean', 'every', 'thing', 'perfec']",positif,positif
+"['prime', 'location', 'nice', 'room', 'clean', 'good']",positif,positif
+"['amaze', 'hotel', 'colonial', 'style', 'full', 'glamour', 'delhi', 'great', 'breakfast', 'great', 'staff', 'specially', 'housekeeper', 'john', 'pakhumate', 'amaze', 'hotel', 'lobby', 'staff']",positif,positif
+"['price', 'location', 'good', 'work']",positif,positif
+['good'],positif,positif
+"['environment', 'ok', 'room', 'ok', 'hotel', 'new', 'hygiene', 'wise', 'worth', 'money']",positif,positif
+"['leave', 'hotel']",netral,positif
+['nice'],positif,positif
+[],netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['room', 'clean', 'well', 'maintain']",positif,positif
+"['room', 'wall', 'washroom', 'dirty', 'hygiene', 'maintain']",negatif,negatif
+"['comment', 'available', 'review']",positif,positif
+['nothing'],netral,netral
+['entry'],netral,netral
+"['good', 'stay', 'love', 'stay']",positif,positif
+"['nice', 'location', 'nice', 'property', 'friendly', 'staff']",positif,positif
+"['good', 'hotel', 'stay', 'friendly', 'us']",positif,positif
+"['really', 'love', 'space', 'comfortable', 'bed', 'room', 'beautiful', 'live', 'room', 'kitchen', 'nice', 'location', 'delhi', 'care', 'takers', 'place', 'kind', 'helpful', 'friendly', 'ads', 'good', 'energy', 'place']",positif,positif
+"['friendly', 'smile', 'staff', 'reception', 'staff', 'excellent', 'ready', 'help', 'time', 'location', 'fantastic', 'near', 'attractions', 'room', 'big', 'comfortable']",positif,positif
+"['nice', 'experience', 'short', 'stay', 'room', 'good', 'price', 'reasonable', 'r', 'ok', 'room', 'well', 'maintain', 'behaviour', 'staff', 'quite', 'nice']",positif,positif
+['location'],netral,positif
+"['staff', 'cleanliness']",netral,positif
+"['easy', 'location']",positif,positif
+"['amaze', 'facilities', 'clean', 'room', 'spacious', 'area', 'everything', 'par', 'quality', 'price']",positif,positif
+"['good', 'location', 'good', 'connectivity']",positif,positif
+['breakfast'],netral,positif
+"['good', 'roomsvalue', 'money']",positif,positif
+['budget'],netral,positif
+"['clean', 'room']",positif,positif
+['nothing'],netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['bad', 'experience']",negatif,negatif
+"['staff', 'behaviour', 'gud']",netral,netral
+"['manager', 'cooperative', 'overall', 'service', 'provide', 'staff', 'satisfactory']",netral,positif
+"['room', 'show', 'picture', 'completely', 'different', 'provide', 'never', 'good', 'choice', 'stay', '4', 'days', 'stay', 'room', 'wasnt', 'clean', 'even', 'even', 'provide', 'room', 'key', 'ac', 'continuously', 'make', 'sound', 'irritate', 'even', 'ask', 'didnt', 'give', 'tv', 'remote', 'complete', 'bad', 'experience', 'good', 'couple', 'go', 'hourly', 'basis', 'shall', 'never', 'go']",negatif,negatif
+['excellent'],positif,positif
+"['close', 'proximity', 'train', 'station', 'well', 'tourist', 'sit', 'abundance', 'market', 'near', 'shop', 'need']",positif,positif
+"['location', 'perfect', 'didnt', 'take', 'time', 'reach', 'search', 'property', 'room', 'spacious', 'hygienic', 'comfortable']",positif,positif
+"['good', 'service', 'responses', 'staff', 'helpful', 'ready', 'support', 'requestsambiance', 'also', 'good', 'wil', 'will', 'come', 'againand', 'dessert', 'session', 'good', 'varitey', 'aso']",positif,positif
+"['j', 'house', 'nice', 'place', 'stay', 'staff', 'welcome', 'friendly', 'check', 'take', '5', 'minutes', 'get', 'room', 'clean', 'tidy', 'great', 'deal', 'compare', 'price', 'pay', 'quiet', 'get', 'good', 'sleep', 'long', 'day', 'roam', 'delhi', 'would', 'totally', 'recommend', 'place']",positif,positif
+"['best', 'luxury', 'hotel', 'east', 'kailash', 'decent', 'polite', 'staff', 'clean', 'comfortable', 'room', 'best', 'service', 'also']",positif,positif
+"['like', 'kitchen', 'cold', 'water', 'refrigerator']",negatif,negatif
+"['close', 'airport']",netral,positif
+"['good', 'result']",positif,positif
+"['true', 'small', 'business', 'local', 'bed', 'breakfast', 'experience', 'bnb', 'charm', 'staff', 'friendly', 'breakfast', 'delicious']",positif,positif
+"['friendly', 'staff', 'helpfully']",positif,positif
+"['recently', 'stay', 'hotel', 'suzi', '4', 'days', 'fantastic', 'experience', 'staff', 'incredibly', 'helpful', 'even', 'assist', 'us', 'book', 'train', 'ticket', 'room', 'clean', 'comfortable', 'hotels', 'location', 'convenient', 'explore', 'city', 'breakfast', 'onsite', 'restaurant', 'delicious', 'overall', 'highly', 'recommend', 'hotel', 'wonderful', 'stay']",positif,positif
+"['food', 'cleanliness', 'staff', 'hospitality', 'ambience']",netral,positif
+"['nice', 'front', 'office', 'people', 'clean', 'hotel']",positif,positif
+"['clean', 'nice', 'staff', 'helpful', 'especially', 'night', 'staf', 'guy', 'jasbir', 'helpful', 'polite']",positif,positif
+['location'],netral,positif
+"['everything', 'nice', 'right', 'check', 'process', 'room', 'good', 'bathroom', 'however', 'could', 'decent', 'size', 'less', 'water', 'come', 'tap', 'location', 'mind', 'blow']",positif,positif
+"['2nd', 'time', 'everything', 'nice', 'however', 'feel', 'kinda', 'expensive']",positif,positif
+"['stay', 'two', 'nights', 'hotel', 'standard', 'room', 'clean', 'reception', 'restaurant', 'everyone', 'extremely', 'friendly', 'centrally', 'locate', 'within', 'walk', 'distance', 'local', 'shop', 'cafes', 'restaurants']",positif,positif
+"['location', 'perfect', 'didnt', 'take', 'time', 'reach', 'search', 'property', 'room', 'spacious', 'hygienic', 'comfortable']",positif,positif
+['nothing'],netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['room', 'ac', 'work', 'noise', 'disturbance']",netral,positif
+"['near', 'airportspacious', 'roomhave', 'terrace', 'nearer', 'shop', 'area']",positif,positif
+"['location', 'accessibility']",netral,netral
+"['staff', 'extremely', 'helpful', 'cordial']",negatif,positif
+"['clearly', 'vissible', 'main', 'road']",positif,positif
+['well'],netral,positif
+"['pros', 'hotel', 'location', 'goodeasy', 'acssesbility', 'cab', 'hospital', 'inspite', 'main', 'road', 'itws', 'noisy', 'manager', 'mr', 'ajay', 'courteous', 'n', 'gentle', 'person', 'chenk', 'time', 'flexibleallowed', 'early', 'checkin', 'n', 'late', 'check']",positif,positif
+"['nothing', 'like']",netral,netral
+"['hotel', 'rooftop', 'bar', 'stun', 'view', 'city']",positif,positif
+"['nice', 'although', 'cost', 'little', 'cheap']",positif,positif
+"['hotel', 'wonderful', 'even', 'better', 'expect', 'price', 'amaze']",positif,positif
+"['size', 'room']",netral,positif
+"['good', 'place', 'night', 'close', 'delhi', 'airport', 'good', 'price']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['stay', 'second', 'time', 'everything', 'good', 'year', 'ago', 'room', 'toilets', 'food', 'everything', 'great', 'food', 'really', 'good', 'decently', 'price', 'order', 'time', 'order', '2', 'really', 'dont', 'need', 'go', 'food', 'manage', 'eat', 'room', 'staff', 'also', 'really', 'well', 'mannered']",positif,positif
+"['everything', 'good', 'hotel', 'especially', 'food', 'hotel', 'soo', 'tasty', 'love', 'fry', 'rice', 'tosted', 'wok', 'rice', 'prawn', 'soo', 'good', 'somebody', 'go', 'hotel', 'must', 'try', 'fry', 'rice', 'prawn']",positif,positif
+"['location', 'road', 'easy', 'access', 'public', 'transport', 'cheapest', 'online', 'comparison', 'nearby', 'hotels']",positif,positif
+"['review', 'hotel', 'arch', 'anand', 'lok', 'inn', 'reach', 'anand', 'lok', 'inn', 'say', 'place', 'hotel', 'arch', 'locate', '200', 'meter', 'away', 'probably', 'management', 'stay', 'day', 'leave', 'delhi', 'return', 'next', 'day', 'come', 'back', 'delhi', 'choose', 'stay', 'hotel', 'arch', 'hotel', 'arch', 'mostly', 'pluses', 'hardly', 'minuses', 'didnt', 'kettle', 'room', 'minus', 'one', 'provide', 'request', 'staff', 'even', 'offer', 'put', 'coffee', 'tea', 'sachets', 'coffee', 'decline', 'offer', 'hot', 'water', 'nice', 'hot', 'work', 'well', 'buffet', 'dinner', 'tasty', '24', 'hour', 'room', 'service', 'excellent', 'staff', 'polite', 'location', 'convenient', 'close', 'airport', 'pretty', 'market', 'minutes', 'walk', 'away', 'usually', 'good', 'news', 'room', 'cost', 'little', 'overall', 'hotel', 'great', 'value', 'money']",positif,positif
+"['clealiness', 'service']",netral,positif
+"['value', 'money', 'poor', 'staff', 'friendly', 'live', 'like', 'prison']",negatif,positif
+"['staff', 'front', 'office', 'restaurants', 'room', 'service', 'friendly', 'responsive']",positif,positif
+['nothing'],netral,netral
+"['friendly', 'staff', 'clean', 'hotel', 'beautiful', 'atmosphere', 'inside', 'outside', 'around', 'part', 'city']",positif,positif
+"['good', 'hotel', 'value', 'money']",positif,positif
+"['nothing', 'much']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['stuff', 'amaze', 'professional', 'helpful']",positif,positif
+['nothing'],netral,netral
+"['location', 'room', 'size', 'clean']",netral,positif
+"['location', 'excellent', 'room', 'also', 'quite', 'ok']",positif,positif
+"['amazingly', 'maintain', 'property', 'exceptionally', 'clean', 'extremely', 'hospitable', 'staff', 'service', 'industry', 'deteriorate', 'day', 'hotel', 'staff', 'work', 'hard', 'towards', 'customer', 'delight', 'anniversary', 'week', 'hotel', 'ensure', 'smooth', 'checkin', 'room', 'provide', 'per', 'specifications', 'travel', 'baby', 'make', 'easy', 'supportive', 'staff', 'lobby', 'resident', 'floor']",positif,positif
+"['nice', 'hotel', 'close', 'airport', 'perfect', 'short', 'stay', 'staff', 'helpful', 'room', 'big', 'clean', 'good', 'bathroom', 'great', 'value', 'money', 'compare', 'aerocity']",positif,positif
+"['locate', 'close', 'tourists', 'spot']",netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['fabexpress', 'station', 'ii', 'one', 'best', 'hotels', 'stay', 'beautiful', 'view', 'jal', 'mahal', 'close', 'proximity', 'tourist', 'attractions', 'make', 'life', 'super', 'easy', 'staff', 'welcome', 'helpful']",positif,positif
+"['stay', 'amaze', 'room', 'clean', 'comfortable', 'love', 'service', 'magnificent', 'view', 'staff', 'hospitality', 'overall', 'amaze', 'experience', 'thank', 'staff', 'management', 'make', 'ths', 'stat', 'pleasant', 'stressfree']",positif,positif
+"['staff', 'behaviour', 'decency']",netral,netral
+"['neat', 'clean', 'spacious', 'hotel', 'hotel', 'main', 'road', 'location', 'visible', 'around', 'nice', 'entrance', 'room', 'good', 'manager', 'staff', 'helpful', 'nice', 'cozy', 'place', 'house', 'restaurant', 'good', 'food']",positif,positif
+"['nothing', 'kuch', 'bhi', 'aisa', 'nahi']",netral,netral
+['bad'],negatif,negatif
+"['staff', 'friendly', 'room', 'nice']",positif,positif
+"['good', 'location', 'food', 'price', 'high']",positif,positif
+"['hotel', 'environment', 'good', 'provide', 'good', 'amenities']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['room', 'clean', 'comfortable']",positif,positif
+"['feel', 'crowd', 'even', 'share', 'room', 'amongst', '8', 'people', 'well', 'maintain', 'room', 'clean', 'bathrooms', 'overall', 'value', 'money']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['stay', '2', 'days', 'good', 'stay', 'family', 'total', '5', 'people', 'love', 'stay', 'breakfast', 'good', 'celebrate', 'princess', 'birthday', 'good', 'decoration', 'help', 'arrange', 'cake', 'hotel', 'overall', 'good', 'experience']",positif,positif
+"['room', 'great']",positif,positif
+"['location', 'good', 'food', 'good']",positif,positif
+"['excellent', 'service', 'great', 'availability', 'staff', 'exceptional', 'location', 'perfect', 'room', 'cleanliness', 'impeccable', 'bed', 'equipment', 'efficient', 'responsive', 'room', 'service', 'quality', 'food', 'breakfast', 'good']",positif,positif
+"['good', 'responsecouteous', 'staff', 'staff', 'take', 'responsibility', 'guide', 'arrival', 'city']",positif,positif
+"['staff', 'extremely', 'helpful', 'one', 'staff', 'person', 'personally', 'escort', 'find', 'worker', 'atm', 'machine', 'three', 'previous', 'ones', 'dispense', 'cash', 'uk', 'open', 'account']",negatif,negatif
+"['location', 'excellent', 'near', 'airport', 'taxis', 'easily', 'available', 'try', '345am', 'request', 'front', 'desk', 'quiet', 'room', 'provide', 'room', 'grind', 'floor', 'clean', 'quiet', 'night', 'ac', 'work', 'well', 'hot', 'water', 'available', 'washroom', 'clean', 'good', 'sleep', 'catch', 'early', 'morning', 'flight', 'recommend', 'property', 'travelers', 'seek', 'short', 'stay', 'flight', 'negative', 'airtel', 'signal', 'poor', 'room', 'go', 'call', 'maybe', 'network', 'work', 'well']",positif,positif
+"['dont', 'call']",netral,positif
+"['location', 'hotel', 'good', 'also', 'park', 'hotel', 'worth', 'whole', 'money']",positif,positif
+"['hotel', 'staff', 'good']",positif,positif
+"['friendly', 'helpful', 'propreitor', 'staff', 'location', 'close', 'good', 'bengali', 'eateries']",positif,positif
+"['room', 'clean', 'spacious']",positif,positif
+['nothing'],netral,netral
+"['smooth', 'checkin', 'staff', 'great', 'helpful', 'room', 'advertise', 'great', 'location']",positif,positif
+"['room', 'spacious', 'bed', 'large', 'comfortable']",positif,positif
+"['breakfast', 'great']",positif,positif
+"['fake', 'hotel', 'price', 'show', 'little', 'arrive', 'hotel', 'charge1200rs']",negatif,negatif
+"['hotel', 'great', 'security', 'measure', 'place', 'make', 'feel', 'safe', 'secure']",positif,positif
+"['staff', 'attentive', 'polite', 'helpfulat', 'support', 'teamsrooms', 'clean', 'comfortable', 'food', 'amaze', 'tasty']",positif,positif
+"['give', 'us', 'room', 'say', 'u', 'book', 'littelly', 'harase', 'contact']",netral,negatif
+"['hotel', 'stay', 'superb', 'modern', 'decor', 'comfortable', 'bed', 'ensure', 'restful', 'nights', 'sleep']",positif,positif
+"['arif', 'staff', 'friendly']",positif,positif
+"['good', 'location', 'hospitable', 'staff']",positif,positif
+"['location', 'convenient']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['hotel', 'location', 'good', 'room', 'nice', 'comfortable']",positif,positif
+"['great', 'experience']",positif,positif
+"['actually', 'like', 'nothing']",netral,netral
+"['well', 'do']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['unprofessional', 'third', 'grade', 'service', 'recommendable']",positif,netral
+"['comment', 'available', 'review']",positif,positif
+"['lovely', 'food', 'location', 'amaze', 'stay', 'respectful', 'staff', 'high', 'amenities', 'good', 'service', 'stay', 'excellent', 'helpful', 'staff']",positif,positif
+['nothing'],netral,netral
+"['staff', 'members', 'nice', 'helpful', 'cooperative']",positif,positif
+"['right', 'locatio', 'want', 'stay', 'pagar', 'ganj', 'little', 'crazy', 'noise', 'clean', 'safe', 'place', 'stuff', 'friendly', 'helpful']",positif,positif
+"['bed', 'extremely', 'comfortable', 'room', 'spacious', 'clean', 'vintage', 'aesthetics', 'awesome']",positif,positif
+"['park', 'bike', 'bike', 'battery', 'steal']",netral,netral
+"['nothing', 'like']",netral,netral
+[],netral,positif
+"['amaze', 'stay']",positif,positif
+"['love', 'concept', 'room', 'well', 'spacious', 'nice', 'table', '4', 'chair', 'bed', 'long', 'enough', 'accommodate', 'consider', 'height', 'washroom', 'neat', 'enough', 'space']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['value', 'money', 'worth']",positif,positif
+['nothing'],netral,netral
+"['hotel', 'exceed', 'expectations', 'every', 'way', 'staff', 'incredibly', 'friendly', 'helpful', 'room', 'immaculate', 'highly', 'recommend']",positif,positif
+"['location', 'air', 'conditioner']",netral,positif
+"['hotel', 'location', 'nice', 'good', 'service', 'helpful', 'staff']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['great', 'hotel', 'fantastic', 'value', 'money', 'hotel', 'staff', 'friendly', 'try', 'everything', 'make', 'feel', 'like', 'home', 'visit', 'thank']",positif,positif
+"['simple', 'breakfast']",netral,positif
+"['good', 'staff', 'service', 'good', 'staff', 'wonderful', 'experience', 'room', 'well', 'maintain', 'neat', 'clean', 'definitely', 'recommend', 'hotel', 'family', 'friends']",positif,positif
+"['staff', 'cooperative', 'come', 'room', 'room', 'good', 'bedsheets', 'proper', 'shape', 'cockroaches', 'around', 'room', 'better', 'personally', 'visit', 'hotel', 'take', 'room']",positif,positif
+"['nice', 'experience', 'moment', 'arrive', 'staff', 'incredibly', 'welcome', 'go', 'beyond', 'ensure', 'stay', 'comfortable', 'enjoyable', 'room', 'spacious', 'wellappointed', 'amenities', 'one', 'could', 'ask', 'bed', 'comfortable', 'linens', 'high', 'quality', 'make', 'great', 'nights', 'sleep', 'gym', 'miss']",positif,positif
+"['staff', 'especially', 'abdul', 'team', 'food', 'homely']",netral,positif
+"['location', 'good']",positif,positif
+"['behavior', 'management', 'nice', 'specially', 'naveen']",positif,positif
+"['best', 'hotel', 'cooperative', 'staff', 'food', 'quality', 'awasome', 'fabulous', 'view', 'excellent', 'food', 'quality', 'staff', 'courteous', 'experience', 'great', 'visit']",positif,positif
+"['disgust', 'service', 'rate', 'different', 'show', 'room', 'sooo', 'dirty', 'coustom', 'service', 'suck', 'go', 'regret']",negatif,negatif
+"['nice', 'need', 'professional', 'cooperative', 'stuff']",positif,positif
+['moderate'],netral,netral
+"['simple', 'room']",netral,positif
+"['food', 'amenities', 'staff', 'service', 'ask']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['nice', 'location', 'good', 'food', 'neat', 'nd', 'clean', 'room', 'near', 'railway', 'station', 'centre', 'delhi', 'monoment', 'close', 'hotel']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['everything', 'good', 'clean', 'wise', 'good']",positif,positif
+"['good', 'hotel', 'nice', 'location']",positif,positif
+"['wifi', 'good', 'staff', 'friendly']",positif,positif
+['location'],netral,positif
+"['good', 'hotel', 'good', 'location', 'local', 'foods', 'available', 'nearby', 'best', 'staff', 'service', 'really', 'good']",positif,positif
+"['très', 'proche', 'du', 'métro', 'bien', 'insonorisé', 'du', 'bruyant', 'boulevard', 'restauration', '247']",netral,netral
+"['tell', 'racis', 'refuse', 'allow', 'hostel', 'nigerian']",netral,netral
+"['good', 'air', 'condition', 'convenient', 'location']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['staff', 'attentive', 'polite', 'helpfulat', 'support', 'teamsrooms', 'clean', 'comfortable', 'food', 'amaze', 'tasty']",positif,positif
+"['driver', 'stay']",netral,positif
+"['charge', 'extra', 'every', 'facility', 'even', 'water', 'bottle', 'charge', '33', 'rs', 'normal', '20', 'rs', 'water', 'bottle', 'hotel', 'conduct', 'unfair', 'trade', 'practise']",negatif,negatif
+"['restaurant', 'good', 'good', 'good', 'price']",positif,positif
+"['location', 'good', 'near', 'metro', 'station']",positif,positif
+"['good', 'location']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'staff', 'behavior']",netral,positif
+"['hotel', 'narrow', 'gali', 'uber', 'ola', 'doesnt', 'reach', 'horrible', 'humid', 'wet', 'stinky', 'room', 'make', 'stay', 'vista', 'hotel', 'next', 'bite', 'better', 'room', 'charge', 'room', 'take', 'book', 'scam', 'broad', 'road', 'show', 'front', 'hotel', 'room', 'pics', 'old']",negatif,negatif
+"['staff', 'polite', 'prompt']",netral,positif
+"['absolutely', 'nothing']",positif,netral
+"['staff', 'helpful', 'go', 'way', 'accommodate', 'travel', 'plan', 'prepare', 'food', 'us', 'cordial']",positif,positif
+"['hotel', 'room', 'good', 'staff', 'nice', 'locate', 'main', 'bazar', 'hotel', 'prime', 'location', 'metro', 'walk', 'distance', 'new', 'delhi', 'railway', 'station', '05', 'km', 'nice', 'hotel']",positif,positif
+"['location', 'good', 'possible', 'try', 'give', 'fro', 'service', 'nzm', 'station', 'even', 'chargeable', 'acceptable', 'atleast', 'regular', 'customer', 'senior', 'citizen']",positif,negatif
+"['good', 'hospitality', 'location']",positif,positif
+"['good', 'better', 'best', 'best', 'bestwhat', 'need', 'except', 'food', 'need', 'connect', 'good', 'restro', 'good', 'quality', 'food', 'serve', 'pay', 'provide', 'good', 'food']",positif,positif
+"['room', 'size']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+['nothing'],netral,netral
+"['room', 'comfortable', 'n', 'coozy']",positif,positif
+"['location', 'good', 'near', 'heavy', 'traffic']",positif,positif
+"['good', 'experience', 'hotel', 'good', 'staff', 'well', 'do', 'food', 'quality', 'fabulous', 'nice', 'location', 'good', 'view', 'room', 'perfect']",positif,positif
+"['greatest', 'part', 'hotel', 'location', 'within', '15', 'minutes', 'drive', 'distance', 'terminals', 'new', 'delhi', 'airport']",positif,positif
+"['hotel', 'budget', 'accomodationand', 'location', 'perfect']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['average'],negatif,positif
+"['central', 'near', 'market', 'metro']",positif,positif
+"['wonderful', 'ambience', 'polite', 'staff', 'breakfast', 'absolutely', 'amaze', 'good', 'lunch', 'buffet', 'location', 'superb', 'swim', 'trip', 'taj', 'include']",positif,positif
+"['staff', 'helpful', 'kind', 'hungry', 'arrange', 'fantastic', 'lunch', 'outside', 'hours', 'help', 'us', 'arrange', 'early', 'taxi', 'day', 'arrival', 'even', 'call', 'room', 'wake', 'us', 'case', 'oversleep', 'fridge', 'work', 'repair', 'within', 'hour']",positif,positif
+"['hotel', 'service', 'good', 'hotel', 'price', 'high', 'value']",negatif,positif
+"['lovely', 'ambience', 'great', 'courteous', 'staff', 'great', 'service', 'love', 'breakfast', 'great', 'serve', 'smile', 'great', 'experience']",positif,positif
+"['bad', 'hotel']",negatif,negatif
+"['staff', 'response', 'gud']",netral,positif
+"['hotel', 'good', 'well', 'good']",positif,positif
+"['amaze', 'service', 'specially', 'staff', 'behavior', 'polite', 'helpful', 'value', 'money', 'clean', 'room', 'break', 'fast', 'time', 'hygiene', 'food', 'budget', 'hotel', 'nice', 'location', 'near', '2', 'metro', 'station', 'apollo', 'jasoal', 'metro', 'station', 'shahine', 'bagh']",positif,positif
+"['location', 'biggest', 'plus', 'pretty', 'sizable', 'hotel', 'property', 'well', 'manage', 'buffet', 'spread', 'decent']",positif,positif
+"['location', 'nothing', 'good']",positif,positif
+"['noisy', 'pigeons', 'around', 'window']",positif,netral
+"['good', 'location', 'check', 'prompt']",positif,positif
+"['good', 'location']",positif,positif
+"['pleasant', 'stay', 'staff', 'good', 'room', 'clean', '247', 'room', 'service', 'checkin', 'checkout', 'process', 'hassle', 'free', 'near', 'karol', 'bagh', 'metro', 'station', 'gaffar', 'market', 'situate', 'middle', 'karol', 'bagh', 'easy', 'go', 'almost', 'anywhere', 'around', 'delhi']",positif,positif
+"['forget', 'cellphone', 'somewhere', 'reception', 'ive', 'even', 'notice', 'lose', 'employe', 'bring', 'back', 'room', 'thank', 'jyoti', 'reception', 'helpful', 'room', 'choice', 'wifi', 'work', 'perfect', 'confortable', 'room', 'big', 'windows', 'front', 'mosquee', 'service', 'room', 'accurate', 'happy', 'stay', 'hari', 'piorko']",positif,positif
+"['perfectsound', 'sleepgood', 'food', 'excellent', 'shower']",positif,positif
+"['staff', 'helpful', 'service', 'good', 'timely']",positif,positif
+"['staff', 'good']",positif,positif
+"['location', 'staff', 'behaviour', 'comfort']",netral,netral
+['service'],netral,positif
+"['neat', 'clean', 'spacious', 'hotel', 'hotel', 'main', 'road', 'location', 'visible', 'around', 'nice', 'entrance', 'room', 'good', 'manager', 'staff', 'helpful', 'nice', 'cozy', 'place', 'house', 'restaurant', 'good', 'food']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['nothing'],netral,netral
+"['staff', 'good']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['overall', 'good', 'place', 'stay', 'plenty', 'character', 'good', 'location', 'easy', 'get', 'downtown', 'whether', 'metro', 'tuk', 'tuk', 'many', 'local', 'shop', 'stall', 'around', 'food', 'staff', 'really', 'helpful', 'friendly', 'also', 'think', 'food', 'via', 'room', 'service', 'good', 'reasonably', 'price']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'experience', 'stay', 'hotel', 'nice', 'location', 'nice', 'hotel', 'staff']",positif,positif
+"['staff', 'service', 'food', 'good', 'however', 'day', 'arrive', 'july', '09', '2023', 'rain', 'heavily', 'hotel', 'entrance', 'flood', 'entrring', 'car', 'park', 'hotel', 'door', 'take', 'shoe', 'sock', 'roll', 'trouser', 'enter', 'hotel', 'bell', 'boy', 'help', 'carry', 'baggage']",positif,negatif
+"['nice', 'hotel', 'good', 'location']",positif,positif
+"['free', 'breakfast', 'mention', 'description', 'didnt', 'get', 'stay']",positif,positif
+"['bed', 'good']",positif,positif
+"['want', 'secure', 'well', 'specious', 'room', 'hotel', 'like', 'food', 'serve']",positif,positif
+"['staff', 'friendly', 'good', 'food']",positif,positif
+"['everything', 'good', 'confortable']",positif,positif
+"['comfortable', 'stay', 'hotel']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['hotel', 'exceed', 'expectations', 'every', 'way', 'staff', 'incredibly', 'friendly', 'helpful', 'room', 'immaculate', 'highly', 'recommend']",positif,positif
+"['location', 'fine', 'room', 'also', 'big']",positif,positif
+"['comfortable', 'clean', 'hotel']",positif,positif
+"['large', 'well', 'maintain', 'unique', 'design']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['room', 'quiet', 'facilities', 'clean', 'bed', 'comfortable']",positif,positif
+"['good', 'location', 'clean', 'room']",positif,positif
+"['staff', 'behaviour']",netral,positif
+"['decent', 'enough', 'location', 'cheap', 'clean']",positif,positif
+"['location', 'spacious', 'excellent', 'food', 'good', 'staff']",positif,positif
+"['great', 'value', 'money', 'lovely', 'clean', 'nice', 'soft', 'bed', 'us', 'management', 'staff', 'super', 'friendly']",positif,positif
+"['room', 'size']",netral,positif
+"['allow', 'us', 'checkin']",netral,positif
+"['nothing', 'much']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['bed', 'extremely', 'comfortable', 'room', 'spacious', 'clean', 'vintage', 'aesthetics', 'awesome', 'wish', 'werent', 'pass']",positif,positif
+"['room', 'spacious', 'utilities', 'work', 'breakfast', 'delicious', 'fan', 'aloo', 'paratha', 'chole', 'puri']",positif,positif
+"['staff', 'attentive', 'well', 'mannered']",positif,positif
+"['everything', 'staff', 'amaze', 'every', 'single', 'person', 'encounter', 'friendly', 'kind', 'helpful', 'love', 'locate', 'away', 'hustle', 'bustle']",positif,positif
+"['room', 'facilities']",netral,positif
+"['nice', 'room', 'good', 'sarvice']",positif,positif
+"['vibe', 'also', 'simple', 'amaze', 'energy', 'hotel']",positif,positif
+"['excellent', 'stay', 'come']",positif,positif
+"['need', 'leave', 'early', 'morning', 'didnt', 'breakfast', 'order', 'lunch', 'good', 'last', 'location', 'excellentstaff', 'also', 'good']",positif,positif
+"['stay', '1', 'night', 'fine', 'clean', 'comfy', 'close', 'airport']",positif,positif
+"['location', 'good', 'family', 'room', 'balcony', 'enquiry', 'hotel', 'staff', 'say', 'dont', 'room', 'balcony', 'book', 'family', 'room', 'balcony', 'simple', 'standard', 'double', 'room', 'ask', 'extra', 'bed', 'accommodate', '3', 'adults']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['clean', 'bed', 'sheet', 'towelnot', 'clean', 'tub', 'mug', 'ok', 'confusion', 'fan']",negatif,negatif
+['nothing'],netral,netral
+"['good', 'location', 'near', 'airport', 'terminal', '3', 'hotel', 'room', 'size', 'cleanest', 'good', 'staff', 'good', 'cooperative']",positif,positif
+"['staff', 'good', 'location', 'close', 'vfs']",positif,positif
+['nothing'],netral,netral
+"['nice', 'experience', 'short', 'stay', 'room', 'good', 'price', 'reasonable', 'r', 'ok', 'room', 'well', 'maintain', 'behaviour', 'staff', 'quite', 'nice']",positif,positif
+"['kindly', 'update', 'payment', 'bookingcom', 'unfair']",positif,negatif
+"['room', 'show', 'photos', 'good', 'staff', 'good', 'service']",positif,positif
+"['staff', 'amazingly', 'friendly', 'helpful', 'care', 'well', 'room', 'clean', 'bed', 'comfortable', 'buffet', 'breakfast', 'super', 'tasty']",positif,positif
+"['absolutely', 'love', 'stay', 'room', 'luxurious', 'food', 'delicious', 'staff', 'attentive', 'friendly']",positif,positif
+"['one', 'best', 'hotel', 'stay']",positif,positif
+"['comfortable', 'everything', 'satisfy']",positif,positif
+"['ac', 'work', 'cool', 'louder', 'noise', 'bad', 'smell', 'room', 'ac', 'staff', 'behavior', 'polite', 'deny', 'issue', 'invoice']",negatif,negatif
+"['room', 'washroom', 'neat', 'nd', 'clear', 'blanket', 'little', 'dirty']",negatif,negatif
+"['best', 'stay', 'ever', 'environment', 'pleasant', 'welcome', 'checkin', 'checkout', 'professionally', 'handle', 'easy']",positif,positif
+"['female', 'traveller', 'duo', 'felt', 'safe', 'comfortable', 'stay']",positif,positif
+"['staff', 'quite', 'helpful', 'fortunately', 'ac', 'work', 'wonder', 'location', 'pretty', 'central', 'assume', 'nice', 'touristy', 'area', 'room', 'offer', 'need', 'bed', 'pretty', 'clean']",positif,positif
+"['hotel', 'good', 'location', 'check', 'fast', 'staff', 'helpful']",positif,positif
+['nice'],positif,positif
+"['good', 'service']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'good']",positif,positif
+"['change', 'bed', 'sheet', 'find', 'dirty']",negatif,negatif
+"['location', 'employees', 'namely', 'mr', 'satyendra', 'fifty9', 'ms', 'inderpreet']",negatif,netral
+"['room', 'size', 'staff', 'behaviour']",netral,positif
+"['didnt', 'give', 'us', 'room', 'book', 'deny', 'arrival']",netral,negatif
+"['location', 'staff', 'price', 'fair']",positif,positif
+['location'],netral,positif
+"['room', 'really', 'nice']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'location', 'room', 'neat']",positif,positif
+"['location', 'clean', 'big', 'room', 'nice', 'restaurant', 'variety', 'options']",positif,positif
+"['clean', 'although', 'kitchen', 'dirty']",negatif,negatif
+"['helpful', 'staff', 'members']",netral,positif
+"['staff', 'good']",positif,positif
+"['location', 'change', 'extra', 'money']",netral,netral
+['good'],positif,positif
+"['hotel', 'staff', 'establishment', 'good']",positif,positif
+"['large', 'room', 'neatnessnear', 'new', 'delhi', 'railway', 'station']",positif,positif
+"['staff', 'extremely', 'polite', 'highly', 'culture', 'upto', 'mark', 'really', 'love', 'food', 'serve', 'room', 'really', 'neat', 'clean', 'definitely', 'visit', 'property']",positif,positif
+['location'],netral,positif
+"['staff', 'welcome', 'especially', 'ashok', 'house', 'keep', 'kind', 'professional']",positif,positif
+"['well', 'suit', 'need', 'short', 'stay', 'delhi', 'slightly', 'main', 'area', 'much', 'quieter', 'clean', 'spacious', 'room']",positif,positif
+"['hotels', 'restaurant', 'amaze', 'food', 'highly', 'recommend', 'seafood', 'pasta']",positif,positif
+"['nice', 'staff', 'help', 'everything', 'good', 'location', 'close', 'shop', 'restaurants', 'clean', 'accord', 'european', 'standards']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['everthing', 'good', 'staff', 'helpfull']",positif,positif
+"['like', 'behaviour', 'staff', 'everything', 'room']",netral,positif
+"['nice', 'hotel', 'staff', 'nice', 'food', 'tasty']",positif,positif
+"['nothing', 'good']",positif,positif
+"['highly', 'recommend', 'hotel', 'shanti', 'villa', 'like', 'everything']",positif,positif
+"['staff', 'helpful', 'friendly', 'everything', 'available', 'felt', 'comfortable', 'hotel', 'definitely', 'come', 'back']",positif,positif
+"['book', 'prompt', 'management', 'people', 'give', 'nice', 'welcome', 'checkin', 'time']",positif,positif
+"['like', 'staff', 'helpful', 'change', 'room', 'twice', 'without', 'give', 'hard', 'time', 'stay', 'twice', 'good', 'time']",positif,positif
+"['piece', 'paradise', 'delhi', 'center', 'tourist', 'attractions', 'short', 'ubertuktuk', 'ride', 'away', 'lodhi', 'garden', '15', 'mins', '100150', 'rupees', 'ride', 'really', 'close', 'area', 'green', 'true', 'oasis', 'also', 'private', 'room', 'share', 'live', 'room', 'dont', 'feel', 'restrict', 'way', 'nights', 'husband', 'use', 'entire', 'space', 'spacious', 'good', 'sound', 'protection', 'everything', 'extremely', 'tastefully', 'decorate', 'breakfast', 'delicious']",positif,positif
+"['location', 'cleanness']",netral,positif
+"['recently', 'remarkable', 'stay', 'sleepy', 'fox', 'staff', 'members', 'incredibly', 'friendly', 'helpful', 'ensure', 'warm', 'welcome', 'atmosphere', 'hostel', 'clean', 'comfortable', 'wellmaintained', 'dormitories', 'invite', 'common', 'areas', 'communal', 'atmosphere', 'make', 'easy', 'meet', 'fellow', 'travelers', 'engage', 'memorable', 'experience', 'location', 'convenient', 'rat', 'affordable', 'offer', 'excellent', 'value', 'money', 'highly', 'recommend', 'hostel', 'fantastic', 'stay', 'delhi']",positif,positif
+"['best', 'internet', 'speed', 'clean', 'kitchen', 'breakfast', 'nice', 'staff', 'helpful', 'common', 'area', 'good', 'everything', 'perfect', 'peaceful', 'road', 'sound']",positif,positif
+['nothing'],netral,netral
+"['comment', 'available', 'review']",positif,positif
+"['nothing', 'much', 'soap', 'bathroom']",positif,netral
+"['good', 'stay']",positif,positif
+"['value', 'money', 'food', 'nice', 'local', 'market', 'nearby', 'overall', 'nice', 'stay']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'hospitality', 'cleanliness', 'feel', 'home', 'feel', 'courteous', 'staff', 'comfortable', 'stay', 'good', 'food']",positif,positif
+"['close', 'airport', 'personel', 'give', 'us', 'key', 'earlier', 'early', 'due', 'flight']",negatif,positif
+"['location', 'easy', 'access', 'staff', 'polite']",positif,positif
+"['hotel', 'fake', 'cheater', 'call', 'near', 'hotel', 'google', 'map', 'staff', 'tell', 'hell', 'send', 'staff', 'receive', 'swtiched', 'hi', 'mobile', 'go', 'another', 'hotel', 'due', 'g20', 'summit', 'govt', 'abandon', 'many', 'hotels', 'work', 'without', 'license', 'delhi', 'please', 'investigate', 'let', 'know', 'thug', 'hotel', 'thug', 'may', 'spoil', 'name', 'fame']",negatif,negatif
+"['location', 'good', 'near', 'metro', 'station']",positif,positif
+"['everything', 'good', 'fabulous', 'hotel', 'good', 'room', 'view', 'good', 'hotel', 'staff']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['property', 'really', 'good', 'staff', 'good', 'help', 'nice', 'location']",positif,positif
+"['хама', 'зур', 'вайфай', '5хонахо', 'тоза', 'хама', '100']",netral,netral
+"['location', 'cleanliness', 'room', 'decor']",netral,netral
+['location'],netral,positif
+"['comment', 'available', 'review']",positif,positif
+['good'],positif,positif
+"['clean', 'room', 'staff', 'good']",positif,positif
+['nothing'],netral,netral
+"['food', 'taste', 'good']",positif,positif
+"['really', 'nice', 'experience', 'stay', 'one', 'best', 'thing', 'quite', 'short', 'distance', 'airport', 'highly', 'recommend', 'travellers']",positif,positif
+"['great', 'location', 'lovely', 'art', 'deco', 'style', 'hotel']",positif,positif
+"['clean', 'bed', 'comfortable']",positif,positif
+"['music', 'play', 'till', '1230pm', 'second', 'night']",netral,netral
+"['ac', 'hot', 'water', 'tv', 'cleanliness', 'manager', 'umpal', 'assistant', 'pooja', 'speak', 'english', 'service', 'good']",positif,positif
+"['location', 'silence', 'clean']",positif,positif
+"['location', 'good']",positif,positif
+"['nice', 'staff', 'im', 'happy', 'clean', 'room', 'reception', 'staff', 'polite', 'manisha', 'helpful']",positif,positif
+"['really', 'good', 'place', 'wonderfully', 'locate', 'posh', 'delhi', 'locality', 'safe', 'secure', 'clean', 'easily', 'accessible', 'plenty', 'transport', 'options', 'like', 'uber', 'auto', 'rickshaw', 'etc', 'room', 'well', 'maintain', 'keep', 'clean']",positif,positif
+"['like', 'room', 'tv', 'clean', 'bathroom', 'large', 'wardrobe']",positif,positif
+"['location', 'need']",netral,positif
+"['nothing', 'good', 'cancel', 'book', 'time']",positif,positif
+"['good', 'hotel']",positif,positif
+"['best', 'place', 'cozy', 'staff', 'cool', 'really', 'good', 'time', 'friends', 'villa']",positif,positif
+"['clean', 'comfy', 'best', 'experience', 'far']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['tell', 'hotel', 'doesnot', 'acomadete', 'forigners']",netral,negatif
+"['comfortable', 'helpful', 'kitchen', 'staff', 'esp', 'chotu', 'breakfast', 'high', 'quality']",positif,positif
+"['room', 'per', 'description']",netral,positif
+['nothing'],netral,netral
+"['location', 'good', 'easily', 'apporechble']",positif,positif
+"['location', 'near', 'ndls', 'staff', 'also', 'good']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['room', 'didnt', 'hot', 'water', 'night', 'lamp', 'glow', 'bathroom', 'light', '1', 'glow', 'balcony', 'spread', 'soil', 'bedsheets', 'blanket']",positif,negatif
+"['comment', 'available', 'review']",positif,positif
+['location'],netral,positif
+"['hotel', 'staff', 'reception', 'rude', 'didnt', 'allow', 'us', 'enter', 'ignore', 'book', 'want', 'money', 'us']",positif,negatif
+['location'],netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['tv', 'work']",netral,positif
+"['everything', 'nice', 'right', 'check', 'process', 'room', 'good', 'bathroom', 'however', 'could', 'decent', 'size', 'less', 'water', 'come', 'tap', 'location', 'mind', 'blow']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['courteous', 'staff']",positif,positif
+"['breakfast', 'oprtion']",netral,netral
+"['book', 'family', 'room', '4', 'people', 'room', 'clean', 'large', 'owner', 'flexible', 'time', 'breakfast', 'hotel', 'opposite', 'park', 'hardly', 'noise', 'come', 'delhi', 'great', 'place', 'escape', 'chaos', 'delhi']",positif,positif
+"['staff', 'property', 'great', 'go', 'beyond', 'make', 'stay', 'comfortable']",positif,positif
+"['everything', 'really', 'good', 'service', 'good', 'happy', 'supportive', 'food', 'wow', 'good', 'place', 'visit', 'expect', 'better', 'service']",positif,positif
+"['worst', 'hotel']",negatif,negatif
+['nothing'],netral,netral
+"['room', 'awesome']",positif,positif
+"['good', 'hotel', 'paharganj', 'family']",positif,positif
+"['good', 'place', 'stay', 'dehli']",positif,positif
+"['clean', 'accommodate']",positif,positif
+"['breakfast', 'perfect', 'facilities', 'super', 'clean', 'nice', 'staff', 'excellent', 'homely']",positif,positif
+"['spacious', 'room', 'awesome', 'servicefriendly', 'staff']",positif,positif
+['nothing'],netral,netral
+"['location', 'swim', 'pool']",netral,positif
+"['breakfast', 'excellent']",positif,positif
+"['1', 'nearest', 'metro', 'station', '2', 'greater', 'kailash', 'good', 'location', 'overall', 'location', 'hotel', 'great']",positif,positif
+"['bathroom', 'fittings']",netral,netral
+"['excellent', 'food', 'nice', 'ambience', 'must', 'visit', 'great', 'experience', 'enjoy', 'family', 'friends', 'good', 'food', 'really', 'enjoy', 'food', 'hotel', 'good', 'hotels', 'nice', 'staff', 'service']",positif,positif
+"['reasonably', 'price', 'hotel', 'location', 'staff', 'helpful', 'give', 'free', 'bottle', 'water', 'day']",positif,positif
+"['really', 'kind', 'staff', 'take', 'care', 'everything', 'location', 'nice', 'organize', 'neighborhood']",positif,positif
+"['good', 'hotel']",positif,positif
+"['clean', 'everywhere', 'restaurants', 'meal', 'nice']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'good']",positif,positif
+"['ac', 'room', 'work', 'shift', 'another', 'room', '4', 'morning']",netral,netral
+"['interior', 'good', 'overall', 'stay', 'good', 'must', 'visit', 'property', 'good', 'staff', 'prefect', 'facilities', 'guest']",positif,positif
+"['excellent', 'hotel', 'comfortable', 'close', 'lot', 'things', 'great', 'food', 'nearby']",positif,positif
+"['clean', 'bathroom']",positif,positif
+"['breakfast', 'good', 'location', 'ok']",positif,positif
+"['staff', 'good', 'polite', 'helpful', 'room', 'decently', 'clean']",positif,positif
+"['water', 'bottle', 'price', 'mrp', '1l', '20', 'bottle', 'sell', '45']",netral,netral
+"['location', 'million', 'buck', 'large', 'room', 'though', 'lift', 'didnt', 'work', 'carry', 'bag', 'apologetic', 'electricity', 'short', 'circuit', 'get', 'fix', 'next', 'morning', 'change', 'room']",positif,positif
+"['experience', 'quite', 'please', 'staff', 'friendly', 'helpful', 'hotel', 'dedicate', 'park', 'space', 'handy', 'metro', 'accessibility', 'also', 'help', 'stay']",positif,positif
+"['service', 'attentive', 'though', 'room', 'look', 'bite', 'tire', 'amenities']",positif,positif
+"['staff', 'discover', 'resort', 'friendly', 'helpful']",positif,positif
+"['charge', 'us', 'book', 'amount']",positif,negatif
+"['눀', 'great', 'helpful', 'staff', 'good', 'location', 'room', 'clean', 'bathroom', 'great', 'wifi', 'good']",positif,positif
+"['hotel', 'well', 'manage', 'staff', 'professional', 'helpful', 'decent', 'options', 'regard', 'select', 'venue', 'hold', 'event', 'concern']",positif,positif
+"['allow', 'check', 'rat', 'mention', 'bookingcom']",netral,netral
+"['nearby', 'airport']",netral,positif
+"['1', 'location', 'road', 'easy', 'find', '2', 'room', 'spacious', 'big', 'enough', '3', 'staff', 'courteous', 'enough', 'especially', 'reception', 'guy', 'helpful']",positif,positif
+"['great', 'location', 'really', 'pleasant', 'clean', 'room', 'thing', 'make', 'good', 'place', 'stay', 'receptionist', 'total', 'staff', 'people', 'incredibly', 'helpful', 'generous', 'time', 'advice', 'thank', 'trip', 'typeholiday', 'family']",positif,positif
+"['good', 'location', 'helpful', 'nice', 'staff', 'clean', 'room']",positif,positif
+"['helpful', 'staff', 'good', 'facilities', 'absolutely', 'worth', 'prize']",positif,positif
+"['nice', 'property', 'neat', 'clean', 'hotel', 'good', 'friendly', 'staff', '24', 'hours', 'service']",positif,positif
+"['room', 'upto', 'mark', 'staff', 'also', 'active']",positif,positif
+"['nice', 'stay', 'would', 'like', 'stay', 'get', 'chance']",positif,positif
+"['staff', 'beheviwar']",netral,netral
+"['everything', 'great', 'property', 'however', 'ac', 'work', 'thing', 'like', 'sleep', 'fan', 'hot', 'stafffood', 'location', 'good']",positif,positif
+"['amaze', 'stay']",positif,positif
+"['staff', 'good', 'mr', 'dev', 'reception', 'helpful', 'humble']",positif,positif
+"['room', 'clean', 'bathroom', 'clean', 'reception', 'staff', 'good', 'problem', 'doesnt', 'fooding', 'facility', 'still', 'consider', 'hotel', 'really', 'like', 'nice', 'comfortable', 'would', 'give', '4', 'star', '5']",positif,positif
+"['would', 'like', 'come', 'back', 'hotel']",netral,positif
+['everything'],netral,positif
+"['nice', 'location', 'great', 'restaurant', 'bukhara', 'nice', 'breakfast']",positif,positif
+['nothing'],netral,netral
+['osm'],netral,netral
+"['great', 'breakfast']",positif,positif
+"['room', 'nice', 'important', 'thing', 'like', 'food', 'service', 'staff', 'professional', 'helpful', 'also', 'notice', 'maintain', 'good', 'hygiene']",positif,positif
+"['location', 'hotel', 'perfect']",positif,positif
+"['value', 'money']",netral,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'good', 'find', 'place']",positif,positif
+"['id', 'stay', 'floor', 'hallways', 'carpet', 'sound', 'noise', 'amplfied', 'hard', 'floor', 'sound', 'noisy', 'thats', 'top', 'constrcution', 'guess', 'choose', 'noisy', 'night', 'otherwise', 'international', 'standards', 'bad', 'room', 'clean', 'comfy', 'spacious', 'nice', 'view', 'food', 'cafe', 'better', '1st', 'floor', 'main', 'restaurant']",positif,positif
+"['arrive', 'staff', 'deny', 'carry', 'baggage', 'entrance', 'narrow', 'auto', 'able', 'enter', 'departure', 'staff', 'ask', 'bag', 'heavy']",positif,negatif
+['location'],netral,positif
+"['room', 'comfortable', 'location', 'super', 'convenient', 'many', 'tuktuks', 'available', 'front', 'hotel', 'lot', 'cafes', 'around', 'near', 'metro', 'station', 'close', 'huge', 'mall', 'staff', 'amaze', 'provide', 'everything', 'need', 'prem', 'tell', 'many', 'good', 'reccomendations', 'trip', 'super', 'reccomended']",positif,positif
+"['didnt', 'like', 'fact', 'offer', 'welcome', 'drink', 'provide', 'even', 'ask', 'twice', 'drink', 'provide', 'service', 'second', 'visit', 'thing', 'happen']",positif,positif
+"['hotel', 'good']",positif,positif
+"['regular', 'property', 'excellent', 'property', 'well', 'train', 'friendly', 'staff', 'sparkle', 'clean', 'hotel', 'excellent', 'food', 'room', 'service', 'quick', 'room', 'size', 'big', 'big', 'toilet', 'shower', 'area']",positif,positif
+"['location', 'central', 'staff', 'friendly', 'manager', 'ranjana', 'give', 'us', 'good', 'travel', 'plan', 'good', 'driver', 'anil', 'take', 'us', 'around', 'golden', 'triangle']",positif,positif
+"['everything', 'good']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['location', 'perfect', 'city', 'center']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['stay', 'hotel', 'recently', 'hotels', 'location', 'great', 'price', 'good', 'food', 'delectable', 'expensive', 'staff', 'good', 'helpful', 'good', 'stay']",positif,positif
+"['stay', 'comfortable', 'room', 'service', 'also', 'good']",positif,positif
+"['room', 'size', 'good', 'serve', 'good', 'breakfast', 'location', 'posh']",positif,positif
+['good'],positif,positif
+"['nice', 'stay', 'helpful', 'staff', 'good', 'room', 'nice', 'food']",positif,positif
+"['stay', '2', 'days', 'good', 'stay', 'family', 'total', '5', 'people', 'love', 'stay', 'breakfast', 'good', 'celebrate', 'princess', 'birthday', 'good', 'decoration', 'help', 'arrange', 'cake', 'hotel', 'overall', 'good', 'experience']",positif,positif
+"['friendly', 'staff', 'accommodate']",positif,positif
+"['clean', 'n', 'safe']",positif,positif
+"['everything', 'show', 'picture', 'im', 'glad', 'location', 'pin', 'website', 'wrong', 'reach', 'get', 'exact', 'location', 'go', 'checkin', 'dont', 'forget', 'mention', 'hotel', 'name', 'different', 'hotels', 'otherwise', 'spend', 'money', 'uber', 'hotel', 'charge']",positif,negatif
+"['hotel', 'wonderful', 'even', 'better', 'expect', 'price', 'amaze', 'great', 'restaurants', 'within', 'walk', 'distance']",positif,positif
+"['initially', 'comply', 'term', 'book']",netral,netral
+"['location', 'location', 'location']",netral,positif
+"['taxi', 'service', 'airport', 'late', 'couldnt', 'check', 'good', 'experience']",negatif,positif
+"['staff', 'response']",netral,positif
+"['price', 'food', 'bite', 'high']",positif,positif
+"['hotel', 'fabhotel', 'chattarpur', 'enclave', 'spacious', 'clean', 'good', 'price', 'location', 'hotel', 'wonderful', 'visit', 'great', 'experience', 'hotel', 'staff', 'quick', 'responsive', 'great', 'hospitality', 'mr', 'nareneder', 'recomandid', 'visit', 'hottel', 'greatful']",positif,positif
+"['staff', 'always', 'look', 'take', 'money', 'go', 'sim', 'card', 'get', 'charge', 'double', 'money', 'exchangethey', 'get', 'better', 'tip', 'invoice', 'kind', 'things']",positif,positif
+"['food', 'awesome', 'location', 'good', 'nearby', 'metro']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['good', 'hotel', 'staff', 'also', 'good', 'location', 'also', 'good']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['negative', 'people']",negatif,positif
+"['personnel', 'really', 'friendly', 'helpfull', 'location', 'good', 'accomodation', 'nice']",positif,positif
+"['spacious', 'room', 'important', 'maintain', 'well', 'definitely', 'come', 'amaze', 'staff']",positif,positif
+"['value', 'money', 'staff', 'helpful', 'close', 'railway', 'station']",positif,positif
+"['breakfast', 'dinner', 'expensive', 'per', 'menu']",negatif,positif
+"['property', 'family', 'could', 'find', 'true', 'word', 'wood', 'castle', 'clean', 'bed', 'sooo', 'comfortable', 'especially', 'pillow', 'bathrooms', 'exceptional', 'compare', 'every', 'property', 'stay', 'book', 'india', 'research', 'one', 'match', 'image', 'actually', 'liveable', 'standard', 'cleanliness', 'family', 'book', 'two', 'different', 'room', 'standards', 'deliver', 'consistent', 'staff', 'super', 'accommodate']",positif,positif
+"['thing', 'good', 'hotel', 'right', 'next', 'metro', 'station']",positif,positif
+"['ac', 'cool']",netral,netral
+"['none', 'things', 'good']",positif,positif
+"['nothing', 'good', 'bad', 'experience', 'hotel']",negatif,negatif
+"['welcome', 'well', 'staff']",netral,positif
+"['wonderful', 'experience', 'hotel', 'friendly', 'staff']",positif,positif
+"['basic', 'hotel', 'close', 'airport']",netral,positif
+['early'],positif,positif
+['nothing'],netral,netral
+"['bed', 'room', 'show', 'website', 'dirty', 'toilet', 'wash', 'basin', 'clean', 'lot', 'mosquitoes', 'come', 'break', 'exhaust', 'fan', 'bedsheets', 'pillow', 'cover', 'smell', 'like', 'wash', 'months', 'ac', 'cool', 'fan', 'horrible', 'experience', 'dont', 'know', 'bookingcom', 'even', 'promote', 'hotel', 'website']",negatif,negatif
+"['excellent', 'stay', 'delicious', 'quality', 'food', 'marvelous', 'value', 'money', 'great', 'food', 'cleanliness', 'staff', 'well', 'train', 'cooperative']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['dispensary', 'area', 'concept', 'really', 'nice', 'guest', 'make', 'coffee', 'tea', 'hot', 'water', 'even', 'iron', 'clothe', 'good', 'experience']",positif,positif
+"['prompt', 'servicesuper', 'hygieniclocated', 'center', 'area']",negatif,positif
+"['spacious', 'room', 'awesome', 'servicefriendly', 'staff']",positif,positif
+['good'],positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+['location'],netral,positif
+['good'],positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['quite', 'safe', 'location', 'care', 'taker', 'helpful']",positif,positif
+"['comment', 'available', 'review']",positif,positif
+"['rooftop', 'really', 'nice', 'room', 'good']",positif,positif
